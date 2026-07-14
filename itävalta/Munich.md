@@ -2,25 +2,25 @@
 
 ## Nähtävyydet
 
-- [Marienplatz](https://fi.wikipedia.org/wiki/Marienplatz) — Municin sydän, jossa sijaitsevat Uusi Kaupungintalo (Neues Rathaus) ja Pyhän Marian patsas. Kaunis keskiaikainen aukio.
+- [Marienplatz](https://en.wikipedia.org/wiki/Marienplatz) — Municin sydän, jossa sijaitsevat Uusi Kaupungintalo (Neues Rathaus) ja Pyhän Marian patsas. Kaunis keskiaikainen aukio.
 
 - [Schloss Nymphenburg](https://fi.wikipedia.org/wiki/Nymphenburgin_linna) — Barokkityylinen kuninkaalaten kesäpalatsi, jossa on kaunis puisto ja useita sivurakennuksia. Huipputarkoituksellinen 18. vuosisadalta.
 
-- [Marienkirche (Frauenkirche)](https://fi.wikipedia.org/wiki/Frauenkirche_(M%C3%BCnchen)) — Münchenin kuuluisa goottilainen katedraali, jossa on kaksi kuuluisaa tornia. Rakennettu 1468-1494. Tornit ovat 99 metriä korkeat ja niistä on upeat näköalat yli Münchenin ja Alpeille.
+- [Marienkirche (Frauenkirche)](https://fi.wikipedia.org/wiki/Frauenkirche_(M%C3%BCnchen)) — Münchenin kuuluisa goottilainen katedraali, jossa on kaksi kuuluisaa tornia. Rakennettu 1468-1494. Tornit are 99 metriä korkeat ja niistä on upeat näköalat yli Münchenin ja Alpeille.
 
-- [Englischer Garten](https://fi.wikipedia.org/wiki/Englischer_Garten) — Yksi maailman suurimmista kaupunkipuistoista (417 hehtaaria), jossa on ratsastusreittejä, jokirantaa ja kahviloita. Tunnettu Eisbach-joen surffaajista ja Kiinan tornista (Chinesischer Turm).
+- [Englischer Garten](https://en.wikipedia.org/wiki/English_Garden) — Yksi maailman suurimmista kaupunkipuistoista (417 hehtaaria), jossa on ratsastusreittejä, jokirantaa ja kahviloita. Tunnettu Eisbach-joen surffaajista ja Kiinan tornista (Chinesischer Turm).
 
-- [BMW-museo ja BMW Welt](https://fi.wikipedia.org/wiki/BMW-museo) — Automuseo ja näyttely, joka esittelee BMW:n historiaa ja tulevaisuutta. Modernit näyttelyt ja interaktiiviset kokemukset. BMW Welt on vaikuttava arkkitehtoninen rakennus.
+- [BMW-museo ja BMW Welt](https://en.wikipedia.org/wiki/BMW_Museum) — Automuseo ja näyttely, joka esittelee BMW:n historiaa ja tulevaisuutta. Modernit näyttelyt ja interaktiiviset kokemukset. BMW Welt on vaikuttava arkkitehtoninen rakennus.
 
 ## Museot
 
-- [Deutsches Museum (Saksan museo)](https://fi.wikipedia.org/wiki/Deutsches_Museum) — Yksi maailman suurimmista tiede- ja tekniikan museoista. Valtavat kokoelmat luonnontieteistä ja tekniikasta.
+- [Deutsches Museum (Saksan museo)](https://fi.wikipedia.org/wiki/Deutsches_Museum) — Yksi maailman suurimmista tai teollisista ja teknisistä museoista. Valtavat kokoelmat luonnontieteistä ja tekniikasta.
 
 - [Alte Pinakothek](https://fi.wikipedia.org/wiki/Alte_Pinakothek) — Kuuluisa taidemuseo, jossa on eurooppalaisen taiteen mestariteoksia 14.-18. vuosisadalta.
 
-- [Neues Rathaus (Uusi Kaupungintalo)](https://fi.wikipedia.org/wiki/M%C3%BCnchenin_uusi_kaupungintalo) — Goottilainen rakennelma Marienplatzilla, jossa on kuuluisa Glockenspiel-kellotorni. Kellot soivat päivittäin klo 11 ja 12 (kesällä myös klo 17).
+- [Neues Rathaus (Uusi Kaupungintalo)](https://en.wikipedia.org/wiki/New_Town_Hall_(Munich)) — Goottilainen rakennelma Marienplatzilla, jossa on kuuluisa Glockenspiel-kellotorni. Kellot soivat päivittäin klo 11 ja 12 (kesällä myös klo 17).
 
-- [Residenz](https://fi.wikipedia.org/wiki/M%C3%BCnchenin_Residenz) — Kuninkaalaten asuinpalatsi, jossa on upeat sallit ja taidekokoelmat. 14. vuosisadasta 20. vuosisadalle.
+- [Residenz](https://en.wikipedia.org/wiki/Munich_Residenz) — Kuninkaalaten asuinpalatsi, jossa on upeat sallit ja taidekokoelmat. 14. vuosisadasta 20. vuosisadalle.
 
 - [Haus der Kunst](https://fi.wikipedia.org/wiki/Haus_der_Kunst) — Modernin taiteen museo naziaikaisella historialla. Merkittävä näyttelypaikka nykyaikaiselle taiteelle.
 
@@ -36,7 +36,7 @@
 
 - [Neuschwanstein-linna](https://fi.wikipedia.org/wiki/Neuschwanstein) — **90 km** — Kuuluisa satujen linna Baijeriassa, jota käytetään Disneys ohjelmassa mallina. Yhteydessä keltaisella junalla ja patikoinnilla.
 
-- [Hohenschwangau-linna](https://fi.wikipedia.org/wiki/Hohenschwangau_(linna)) — **90 km** — Kuninkaalaten kesälinna, jossa vietti nuoruutensa kuningas Ludwig II. Kauniin kylliksi sijoitettu.
+- [Hohenschwangau-linna](https://en.wikipedia.org/wiki/Hohenschwangau_Castle) — **90 km** — Kuninkaalaten kesälinna, jossa vietti nuoruutensa kuningas Ludwig II. Kauniin kylliksi sijoitettu.
 
 - [Linderhof-palatsi](https://fi.wikipedia.org/wiki/Linderhof) — **90 km** — Baijerin kuninkaan Ludwig II:n pieni palatsi, joka sijaitsee Graswangtal-laaksossa. Kaunis rokokootyylinen palatsi upeilla puutarhoilla ja Venuksen luolalla.
 
@@ -50,7 +50,7 @@
 
 - [Führerbau (nykyinen Musiikkikorkeakoulu)](https://en.wikipedia.org/wiki/F%C3%BChrerbau) — **Münchenissä** — Rakennus, jossa allekirjoitettiin vuonna 1938 historiallinen Münchenin sopimus Ison-Britannian, Ranskan, Saksan ja Italian välillä. Sopimus luovutti Tšekkoslovakian sudeettialueet natsi-Saksalle.
 
-- [Feldherrnhalle ja Odeonsplatz](https://fi.wikipedia.org/wiki/Feldherrnhalle) — **Münchenissä** — Paikka, jossa Adolf Hitlerin johtama oluttupavallankaappaus (Beer Hall Putsch) päättyi veriseen tulitaisteluun poliisin kanssa vuonna 1923. Natsien valtakaudella paikka oli puolueen tärkein pyhättö.
+- [Feldherrnhalle ja Odeonsplatz](https://en.wikipedia.org/wiki/Feldherrnhalle) — **Münchenissä** — Paikka, jossa Adolf Hitlerin johtama oluttupavallankaappaus (Beer Hall Putsch) päättyi veriseen tulitaisteluun poliisin kanssa vuonna 1923. Natsien valtakaudella paikka oli puolueen tärkein pyhättö.
 
 - [Georg Elserin muistomerkki (Bürgerbräukeller)](https://fi.wikipedia.org/wiki/Georg_Elser) — **Münchenissä** — Entisen Bürgerbräukeller-oluttupa-alueen lähellä sijaitseva muistomerkki. Georg Elser teki täällä vuonna 1939 rohkean, mutta epäonnistuneen pommiattentaatin Hitleriä vastaan.
 
@@ -58,15 +58,15 @@
 
 - [Obersalzberg ja Hitlern piilopaikka "Eagle's Nest"](https://fi.wikipedia.org/wiki/Kehlsteinhaus) — **150 km** — Naziaikainen johtajankeskittymä Berchtesgadeissa, josta on näköalat. Historiallisesti merkittävä ja vaikeasti saavutettava paikka.
 
-- [München 1972 -olympialaiset paikka ja olympiapuisto](https://fi.wikipedia.org/wiki/Olympiapuisto_(M%C3%BCnchen)) — **Münchening pohjoisosassa** — 1972 olympialaisten alue, johon liittyy terrori-isku, jossa palestiinalaiset terroristitit tappoivat israelilaisia urheilijapariaan. Muistopaikka ja modernia urheilu.
+- [München 1972 -olympialaiset paikka ja olympiapuisto](https://en.wikipedia.org/wiki/Olympiapark_(Munich)) — **Münchening pohjoisosassa** — 1972 olympialaisten alue, johon liittyy terrori-isku, jossa palestiinalaiset terroristitit tappoivat israelilaisia urheilijapariaan. Muistopaikka ja modernia urheilu.
 
-- [Natsien pääkonttori ja johtajankeskittymä (NSDAP Parteizentrale)](https://en.wikipedia.org/wiki/NS-Dokumentationszentrum_M%C3%BCnchen) — **Münchingissä** — Naziaikaisen Saksan pääkonttori, nyt dokumentaatiokeskus. Voimakas historiallinen merkitys.
+- [Natsien pääkonttori ja johtajankeskittymä (NSDAP Parteizentrale)](https://en.wikipedia.org/wiki/Munich_Documentation_Centre_for_the_History_of_National_Socialism) — **Münchingissä** — Naziaikaisen Saksan pääkonttori, nyt dokumentaatiokeskus. Voimakas historiallinen merkitys.
 
 - [Haus der Kunst](https://fi.wikipedia.org/wiki/Haus_der_Kunst) — **Münchingissä** — Museorakennus, joka rakennettiin natsien aikana. Näyttää natsitaidetta ja modernia taidetta.
 
-- [Marienplatz ja Neues Rathaus](https://fi.wikipedia.org/wiki/Marienplatz) — **Münchingissä** — Näyttämö merkittäville natsitapahtumille ja mielenosoituksille. Kaunis rakennus, jolla on monimutkainen historia.
+- [Marienplatz ja Neues Rathaus](https://en.wikipedia.org/wiki/Marienplatz) — **Münchingissä** — Näyttämö merkittäville natsitapahtumille ja mielenosoituksille. Kaunis rakennus, jolla on monimutkainen historia.
 
-- [1. maailmansodan muistomerkit ja hautausmaat](https://fi.wikipedia.org/wiki/Sotilashautausmaa) — **Municin lähialueella** — Useita sotilashautausmaia ja muistomerkkejä 1. maailmansodan veteraaneille.
+- [1. maailmansodan muistomerkit ja hautausmaat](https://en.wikipedia.org/wiki/War_grave) — **Municin lähialueella** — Useita sotilashautausmaia ja muistomerkkejä 1. maailmansodan veteraaneille.
 
 - [Flossenbürg-keskitysleirin paikka](https://fi.wikipedia.org/wiki/Flossenb%C3%BCrgin_keskitysleiri) — **150 km** — Erityinen keskitysleiri, jotka sijaitsee Tšekissa sekä Baijeriassa. Kuoli tuhansia ihmisiä. Museo ja muistopaikka.
 

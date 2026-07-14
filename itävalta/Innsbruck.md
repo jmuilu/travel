@@ -2,39 +2,39 @@
 
 ## Nähtävyydet
 
-- [Golden Roof (Goldenes Dachl)](https://fi.wikipedia.org/wiki/Goldenes_Dachl) — Innsbruckin tunnetuin maamerkki, keskiaikainen rakennus, jonka upea kullattu katto on kaupungin symboli. Rakennettu 1500 keisari Maximilian I:n kunniaksi. 2657 kullatulla kuparitiilellä katettu parveke.
+- [Golden Roof (Goldenes Dachl)](https://en.wikipedia.org/wiki/Golden_Roof) — Innsbruckin tunnetuin maamerkki, keskiaikainen rakennus, jonka upea kullattu katto on kaupungin symboli. Rakennettu 1500 keisari Maximilian I:n kunniaksi. 2657 kullatulla kuparitiilellä katettu parveke.
 
 - [Nordkette-vuoristo](https://en.wikipedia.org/wiki/Nordkette) — Köysirata vie suoraan kaupungista Alppien huipulle 2256 metriin. Näköalat ovat huikeat ja sopivat sekä retkeilijöille että maisemista nauttiville. Zaha Hadid suunnitteli modernit köysirata-asemat.
 
-- [Stadtturm](https://en.wikipedia.org/wiki/City_Tower_(Innsbruck)) — Keskiaikainen kaupungintorni, josta avautuvat upeat näkymät Innsbruckin vanhaan kaupunkiin.
+- [Stadtturm](https://en.wikipedia.org/wiki/Stadtturm_(Innsbruck)) — Keskiaikainen kaupungintorni, josta avautuvat upeat näkymät Innsbruckin vanhaan kaupunkiin.
 
-- [Hofkirche](https://fi.wikipedia.org/wiki/Hofkirche_(Innsbruck)) — Keisari Maximilian I:n hautakirkko, jossa on vaikuttavat pronssipatsaat ja historiallinen tunnelma.
+- [Hofkirche](https://en.wikipedia.org/wiki/Hofkirche,_Innsbruck) — Keisari Maximilian I:n hautakirkko, jossa on vaikuttavat pronssipatsaat ja historiallinen tunnelma.
 
 ## Museot
 
 - [Tyrolean State Museum (Tiroler Landesmuseum Ferdinandeum)](https://en.wikipedia.org/wiki/Tyrolean_State_Museum) — Tämä museo tarjoaa kattavan katsauksen Tirolin alueen historiaan ja taiteeseen. Museon kokoelmiin kuuluu arkeologisia löytöjä, keskiaikaista taidetta ja 19. vuosisadan maalauksia.
 
-- [Ambrasin linna (Schloss Ambras)](https://fi.wikipedia.org/wiki/Ambrasin_linna) — Upea renessanssilinna, joka sisältää merkittävän taide- ja aseidenkokoelman. Erihardvinand Ferdinand II rakennutti linnan 1500-luvulla. Kuuluisa "Wunderkammer"-ihmeiden kammio ja haarniskakokoelma.
+- [Ambrasin linna (Schloss Ambras)](https://en.wikipedia.org/wiki/Ambras_Castle) — Upea renessanssilinna, joka sisältää merkittävän taide- ja aseidenkokoelman. Erihardvinand Ferdinand II rakennutti linnan 1500-luvulla. Kuuluisa "Wunderkammer"-ihmeiden kammio ja haarniskakokoelma.
 
-- [Tirol Panorama ja Kaiserjäger-museo](https://en.wikipedia.org/wiki/Tirol_Panorama_Museum) — Panoraamamuseo esittelee Tirolin historiaa sekä kuuluisan 360° panoraamamaalauksen. Valtava ympyränmuotoinen maalaus kuvaa vuoden 1809 taistelua Bergiselissä.
+- [Tirol Panorama ja Kaiserjäger-museo](https://www.tiroler-landesmuseen.at/en/museum/das-tirol-panorama/) — Panoraamamuseo esittelee Tirolin historiaa sekä kuuluisan 360° panoraamamaalauksen. Valtava ympyränmuotoinen maalaus kuvaa vuoden 1809 taistelua Bergiselissä.
 
 ## Lähistöllä olevat nähtävyydet (100 km säteellä Innsbruckista)
 
-- [Hall in Tirol](https://fi.wikipedia.org/wiki/Hall_in_Tirol) — **10 km** — Keskiaikainen kaupunki, joka tunnetaan suolaliiketoiminnastaan. Kaunis vanha kaupunkikeskusta ja historiallinen ilmapiiri.
+- [Hall in Tirol](https://en.wikipedia.org/wiki/Hall_in_Tirol) — **10 km** — Keskiaikainen kaupunki, joka tunnetaan suolaliiketoiminnastaan. Kaunis vanha kaupunkikeskusta ja historiallinen ilmapiiri.
 
 - [Igls](https://en.wikipedia.org/wiki/Igls) — **15 km** — Kesäkunta ja laskettelu-kuningatar, jossa sijaitsivat 1976 talviolympialaiset luge- ja skeleton-kilpailut.
 
 - [Zillertal Arena](https://en.wikipedia.org/wiki/Zillertal_Arena) — **30 km** — Suurmitta hiihtokeskus, jossa on yli 100 km hiihtoreittiä ja monenlaista aktiviteetteja.
 
-- [Stubaier Gletscher](https://en.wikipedia.org/wiki/Stubai_Glacier) — **30 km** — Vuorikiipeilijöiden ja laskettelun paratiisi. Pääsee autolla jäätikkölle asti ja upea jäätikkövandring.
+- [Stubaier Gletscher](https://www.stubaier-gletscher.com/) — **30 km** — Vuorikiipeilijöiden ja laskettelun paratiisi. Pääsee autolla jäätikkölle asti ja upea jäätikkövandring.
 
 - [Zillertal](https://fi.wikipedia.org/wiki/Zillertal) — **30 km** — Laakso, joka tunnetaan hiihtokeskuksistaan ja luonnon retkeilyreiteistä. Jopa 5 hiihtokeskusta lähekkäin.
 
 - [Seefeld](https://fi.wikipedia.org/wiki/Seefeld_in_Tirol) — **40 km** — Kesäkuntoutuskeskus, joka tunnetaan pohjoisalppisille ski-leireillään ja harjoittelukeskukseksi.
 
-- [Mittenwald](https://fi.wikipedia.org/wiki/Mittenwald) — **40 km** — Saksassa sijaitseva kaunis aikakauden kaupunki, joka tunnetaan värikkaista ja kuvatuista käsinkirjoitetuista talojaan.
+- [Mittenwald](https://en.wikipedia.org/wiki/Mittenwald) — **40 km** — Saksassa sijaitseva kaunis aikakauden kaupunki, joka tunnetaan värikkaista ja kuvatuista käsinkirjoitetuista talojaan.
 
-- [Ötztal](https://fi.wikipedia.org/wiki/%C3%96tztal) — **50 km** — Pitkä alppijärvi laakso, joka tarjoaa upeita retkipaikkoja. Upeat maisemot ja monenlaisia aktiviteetteja.
+- [Ötztal](https://en.wikipedia.org/wiki/%C3%96tztal) — **50 km** — Pitkä alppijärvi laakso, joka tarjoaa upeita retkipaikkoja. Upeat maisemot ja monenlaisia aktiviteetteja.
 
 - [Ehrwald & Lermoos](https://en.wikipedia.org/wiki/Ehrwald) — **60 km** — Pienet hiihtokaupungit, joissa on perhe- ja hiihtoleirit. Pääsee Zugspitzelle, Saksassa olevalle korkeimmalle vuorelle.
 
@@ -46,17 +46,17 @@
 
 - [Festung Kufstein (Kufsteinin linnoitus)](https://fi.wikipedia.org/wiki/Kufsteinin_linnoitus) — **75 km** — Valtava 1200-luvun linnoitus, joka oli vuosisatoja strateginen kiistakapula Baijerin ja Itävallan välillä. Keisari Maximilian I valloitti sen piirityksessä vuonna 1504.
 
-- [Kaiserjäger-museo](https://en.wikipedia.org/wiki/Tirol_Panorama_Museum) — **Innsbruckissa** — Museo esittelee keisarillisen jägeryynnin historiaa 1. maailmansodan ajalta sekä Tirolin taisteluja.
+- [Kaiserjäger-museo](https://www.tiroler-landesmuseen.at/en/museum/das-tirol-panorama/) — **Innsbruckissa** — Museo esittelee keisarillisen jägeryynnin historiaa 1. maailmansodan ajalta sekä Tirolin taisteluja.
 
-- [Tirol Panorama](https://en.wikipedia.org/wiki/Tirol_Panorama_Museum) — **Innsbruckissa** — Valtava 360° panoraamamaalaaus, joka kuvaa Tirolin 1809 vapaaottelua Napoleonia vastaan. Historiallinen monumentti.
+- [Tirol Panorama](https://www.tiroler-landesmuseen.at/en/museum/das-tirol-panorama/) — **Innsbruckissa** — Valtava 360° panoraamamaalaaus, joka kuvaa Tirolin 1809 vapaaottelua Napoleonia vastaan. Historiallinen monumentti.
 
-- [Forte Pré ja 1. maailmansodan linnoitukset](https://fi.wikipedia.org/wiki/Italian_rintama_(ensimmäinen_maailmansota)) — **40-50 km** — Ötztalin ja Stubaitalin alueella sijaitsee useita 1. maailmansodan puolustuslinjojen jäänteitä ja linnoituksia.
+- [Forte Pré ja 1. maailmansodan linnoitukset](https://fi.wikipedia.org/wiki/Italian_rintama_(ensimm%C3%A4inen_maailmansota)) — **40-50 km** — Ötztalin ja Stubaitalin alueella sijaitsee useita 1. maailmansodan puolustuslinjojen jäänteitä ja linnoituksia.
 
 - [Forte Corbin](https://www.forte-corbin.it/) — **50 km** — Avoin nähtäväksi saksalainen 1. maailmansodan linnoitus Zillertalissa, jossa näkyy alkuperäinen militaarinen rakentaminen.
 
-- [Lienz-museo](https://en.wikipedia.org/wiki/Bruck_Castle) — **70 km** — Itätirolassa sijaitseva museo (Bruckin linnassa), joka esittelee Itäalueen historiaa ja 1. maailmansodan vaikutusta Tiroliin.
+- [Lienz-museo](https://en.wikipedia.org/wiki/Burg_Bruck) — **70 km** — Itätirolassa sijaitseva museo (Bruckin linnassa), joka esittelee Itäalueen historiaa ja 1. maailmansodan vaikutusta Tiroliin.
 
-- [Julier-passin 1. maailmansodan paikat](https://fi.wikipedia.org/wiki/Julierpass) — **80 km** — Alppipaikoilla sijaitsevat 1. maailmansodan porttivartijat ja puolustuspaikat, joissa käytiin kovimmat taistelut Alpeilla.
+- [Julier-passin 1. maailmansodan paikat](https://en.wikipedia.org/wiki/Julier_Pass) — **80 km** — Alppipaikoilla sijaitsevat 1. maailmansodan porttivartijat ja puolustuspaikat, joissa käytiin kovimmat taistelut Alpeilla.
 
 - [Tre Cime di Lavaredo ja 1. maailmansodan paikat](https://fi.wikipedia.org/wiki/Tre_Cime_di_Lavaredo) — **80 km** — Kuuluisa 1. maailmansodan taistelualue, jossa näkyvät vielä linnoitukset ja taistelun jäljet kallioilla.
 
