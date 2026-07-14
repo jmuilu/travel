@@ -66,20 +66,20 @@
 
 - [Obersalzberg ja Hitlern piilopaikka "Eagle's Nest" + Königssee ja Obersee järvet](https://fi.wikipedia.org/wiki/Kehlsteinhaus) — **90 km** — Naziaikainen johtajankeskittymä Berchtesgadeissa Saksassa. Königssee-järvi (veneajelua 2-3 h suositeltava), Obersee-järvi ja mahtavat vuorimaisemot.
 
-- [Salzburg historia ja natsikauden muistomerkit](https://en.wikipedia.org/wiki/Salzburg) — **70 km** — Salzburgin historiallisia paikkoja ja natsikauden dokumentaatiota.
+- [Salzburg historia ja natsikauden muistomerkit](https://fi.wikipedia.org/wiki/Salzburg) — **70 km** — Salzburgin historiallisia paikkoja ja natsikauden dokumentaatiota.
 
 - [Kaprun hydroelektrisen voimalan historia](https://en.wikipedia.org/wiki/Kaprun_hydroelectric_power_station) — **10 km** — 1938-1955 rakennettu merkittävä teknillinen saavutus. Kaprunin vesivoimalaitostyömaa oli yksi Itävallan suurimmista toisen maailmansodan jälkeisistä rakennusprojekteista.
 
 - [Hohe Tauern kansallispuiston pohjoispaikat, 1. maailmansodan linnoitukset](https://fi.wikipedia.org/wiki/Hohe_Tauern) — **30-50 km** — Alppien linnoitukset 1. maailmansodan ajalta Italian ja Itävallan rajalla, joissa käytiin kovia taisteluja. Historiallisia reittejä ja muistomerkkejä.
 
-## Tapahtumat ja aktiviteetit Zell am Seessa
+## Tapahtumakalenteri
 
-- [Zell am Seen tapahtumakalenteri](https://www.zellamsee-kaprun.com/en/events) — Seuraavat säännölliset tapahtumat:
-  - **Keskiviikon illat:** Kävelykadun tapahtumia ja kulttuuriohjelmaa
-  - **Torstaisin:** Opastuskierros Kaprun linnassa
-  - **Illaisin:** Valo-musiikkitapahtuma järvellä
-  - **Lauantaisin:** BBQ-tapahtumia ja grillaillallisia
-  - **Konsertteja, torilla:** Musiikki- ja kulttuuritapahtumia ympäri vuoden
+Erityisesti kesäkaudella ja heinäkuun lopussa (22.7.–28.7.2026) Zell am Seessä ja sen lähialueilla (50 km säteellä) tapahtuu:
+
+*   **Grossglockner Ultra-Trail (GGUT)** — **23.–26.7.2026** — Yksi Itävallan upeimmista ja haastavimmista polkujuoksutapahtumista, jonka reitit kiertävät Itävallan korkeimman vuoren. Tapahtuman lähtö ja maali ovat Kaprunissa (10 km).
+*   **Zellin kesäillan festivaali (Zeller Sommernachtsfest)** — **Keskiviikkona 22.7.2026** — Zell am Seen kävelykadulla järjestettävä suosittu kesätapahtuma alkaa klo 19. Tarjolla on elävää musiikkia, Pinzgaun alueen herkkuja ja vilkasta tunnelmaa (0 km).
+*   **Zeller See Zauber -vesi- ja valoshow** — **Tiistaisin, torstaisin ja sunnuntaisin (myös 23.7., 26.7. ja 28.7.2026)** — Upea ja värikäs vesi-, valo-, laser- ja musiikkiesitys Elisabethparkissa Zell am Seen rannalla klo 22.00 (0 km).
+*   **Bürgermusik Zell am See -ulkoilmakonsertit** — **Torstaina 23.7. ja sunnuntaina 26.7.2026** — Perinteiset kesäkonsertit Elisabethparkin musiikkipaviljongissa klo 20.00 (0 km).
 
 ---
 

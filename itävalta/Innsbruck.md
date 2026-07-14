@@ -60,6 +60,15 @@
 
 - [Tre Cime di Lavaredo ja 1. maailmansodan paikat](https://fi.wikipedia.org/wiki/Tre_Cime_di_Lavaredo) — **80 km** — Kuuluisa 1. maailmansodan taistelualue, jossa näkyvät vielä linnoitukset ja taistelun jäljet kallioilla.
 
+## Tapahtumakalenteri
+
+Erityisesti kesäkaudella ja heinäkuun lopussa (22.7.–28.7.2026) Innsbruckissa ja sen lähialueilla (50 km säteellä) tapahtuu:
+
+*   **Innsbruckin promenadikonsertit (Innsbrucker Promenadenkonzerte)** — **3.–30.7.2026** — Päivittäisiä ulkoilmakonsertteja Hofburgin keisarillisen palatsin upealla sisäpihalla. Ohjelmassa on puhallinorkestereita ja klassista musiikkia (0 km).
+*   **Innsbruckin vanhan musiikin festivaali (Innsbrucker Festwochen der Alten Musik)** — **24.7.–30.8.2026** — Kansainvälisesti arvostettu klassisen musiikin festivaali alkaa 24.7. Konsertteja järjestetään upeissa historiallisissa paikoissa, kuten Schloss Ambrasin espanjalaisessa salissa (0 km). [Lisätietoja Wikipediasta](https://en.wikipedia.org/wiki/Innsbruck_Festival_of_Early_Music).
+*   **Käsityömarkkinat Sparkassenplatzilla** — **Joka lauantai (mukaan lukien 25.7.2026)** — Paikalliset käsityöläiset ja taitelijat esittelevät ja myyvät töitään Sparkassenplatz-aukiolla (0 km).
+*   **Seefeldin kesäkonsertit ja alppimarkkinat** — **Viikoittain heinäkuussa (myös 22.–28.7.2026)** — Noin 40 km päässä Innsbruckista sijaitsevassa Seefeldin alppikylässä järjestetään perinteisiä ulkoilmakonsertteja ja kesämarkkinoita (40 km).
+
 ## Päiväretkiehdotukset
 
 ### Retki 1: Innsbruckin historiallinen keskusta (2-3 tuntia)

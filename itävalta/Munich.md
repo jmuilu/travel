@@ -70,6 +70,15 @@
 
 - [Flossenbürg-keskitysleirin paikka](https://fi.wikipedia.org/wiki/Flossenb%C3%BCrgin_keskitysleiri) — **150 km** — Erityinen keskitysleiri, jotka sijaitsee Tšekissa sekä Baijeriassa. Kuoli tuhansia ihmisiä. Museo ja muistopaikka.
 
+## Tapahtumakalenteri
+
+Erityisesti kesäkaudella ja heinäkuun lopussa (22.7.–28.7.2026) Münchenissä ja sen lähialueilla (50 km säteellä) tapahtuu:
+
+*   **Auer Jakobidult -kesämarkkinat** — **25.7.–2.8.2026** — Perinteikäs ja historiallinen Auer Dult -markkinatapahtuma ja tivola Mariahilfplatz-aukiolla. Erinomainen paikka nauttia baijerilaisesta ruoasta, ostaa käsitöitä ja antiikkia (0 km).
+*   **Münchenin oopperajuhlat (Münchner Opernfestspiele)** — **Koko heinäkuun (päättyy 31.7.2026)** — Yksi maailman arvostetuimmista oopperafestivaaleista tarjoaa upeita ooppera- ja balettiesityksiä kaupungin päänäyttämöillä (0 km). [Lisätietoja Wikipediasta](https://en.wikipedia.org/wiki/Munich_Opera_Festival).
+*   **Kino am Olympiasee -ulkoilmaelokuvat** — **Päivittäin heinäkuussa (myös 22.–28.7.2026)** — Olympiapuiston järven rannalla sijaitseva suosittu ulkoilmaelokuvateatteri tarjoaa elokuvia iltahämärässä (0 km).
+*   **Dachaun kesäkonsertit ja kulttuuritapahtumat** — **Viikoittain heinäkuussa (myös 22.–28.7.2026)** — Noin 20 km päässä sijaitsevan Dachaun historiallisessa vanhassakaupungissa ja linnassa järjestetään kesäisiä musiikki- ja teatteritapahtumia (20 km).
+
 ## Päiväretkiehdotukset
 
 ### Retki 1: Municin kaupunkikeskusta historiallinen (3-4 tuntia)
