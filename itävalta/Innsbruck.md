@@ -69,47 +69,57 @@ Erityisesti kesäkaudella ja heinäkuun lopussa (22.7.–28.7.2026) Innsbruckiss
 *   **Käsityömarkkinat Sparkassenplatzilla** — **Joka lauantai (mukaan lukien 25.7.2026)** — Paikalliset käsityöläiset ja taitelijat esittelevät ja myyvät töitään Sparkassenplatz-aukiolla (0 km).
 *   **Seefeldin kesäkonsertit ja alppimarkkinat** — **Viikoittain heinäkuussa (myös 22.–28.7.2026)** — Noin 40 km päässä Innsbruckista sijaitsevassa Seefeldin alppikylässä järjestetään perinteisiä ulkoilmakonsertteja ja kesämarkkinoita (40 km).
 
-## Päiväretkiehdotukset
+## Päiväretkiehdotukset (Lähtöpiste: Sellrain)
+
+Kaikki retkiehdotukset on laskettu alkaviksi **Sellrainin** kylästä (n. 20 km Innsbruckista lounaaseen).
 
 ### Retki 1: Innsbruckin historiallinen keskusta (2-3 tuntia)
-**Etäisyys:** 0-1 km kävelyretki  
-**Kohteita:** Golden Roof (Goldenes Dachl) → Hofkirche → Stadtturm → Maria-Theresien-Straße  
-**Sopii:** Kaikille, helppo kävelyretki historiallisen vanhankaupungin läpi. Voit nauttia alueen kahviloista ja arkkitehtuurista.
+*   **Etäisyys Sellrainista:** n. 20 km suuntaansa (n. 20 min ajoaika). Kaupunkikävely keskustassa n. 1-2 km.
+*   **Kohteita:** Golden Roof (Goldenes Dachl) → Hofkirche → Stadtturm → Maria-Theresien-Straße
+*   **Sopii:** Kaikille, helppo kävelyretki vanhassakaupungissa.
+*   **Karttalinkki:** [Ajo-ohjeet ja reitti kartalla (Sellrain - Innsbruck)](https://www.google.com/maps/dir/Sellrain/Innsbruck)
 
 ### Retki 2: Innsbruckin museot ja kulttuuri (4-5 tuntia)
-**Etäisyys:** n. 5-7 km siirtymät bussilla/autolla  
-**Kohteita:** Ambrasin linna (Schloss Ambras) → Tirol Panorama ja Kaiserjäger-museo (Bergisel-mäellä) → Tyrolean State Museum  
-**Sopii:** Taiteesta ja historiasta kiinnostuneille. Sisältää siirtymistä kaupungin eri puolille.
+*   **Etäisyys Sellrainista:** n. 25–30 km siirtymät kohteiden välillä.
+*   **Kohteita:** Ambrasin linna (Schloss Ambras) → Tirol Panorama ja Kaiserjäger-museo (Bergisel-mäellä) → Tyrolean State Museum
+*   **Sopii:** Taiteesta ja historiasta kiinnostuneille.
+*   **Karttalinkki:** [Ajo-ohjeet ja reitti kartalla (Sellrain - Bergisel - Schloss Ambras)](https://www.google.com/maps/dir/Sellrain/Bergisel,+Innsbruck/Schloss+Ambras,+Schlo%C3%9Fstra%C3%9Fe,+Innsbruck)
 
 ### Retki 3: Nordkette-vuoristo ja alppimaisemat (3-4 tuntia)
-**Etäisyys:** Lähtö suoraan keskustasta (Nordkette-köysirata)  
-**Kohteita:** Köysiradalla huipulle (Hafelekar 2256 m) → lounas alppiravintolassa → lyhyt maisemakävely huipulla  
-**Sopii:** Luonnosta ja upeista näköaloista kiinnostuneille. Ei vaadi pitkiä ajoaikoja, sillä köysirata lähtee keskustasta.
+*   **Etäisyys Sellrainista:** n. 20 km köysiradan ala-asemalle (Congress).
+*   **Kohteita:** Nordkette-köysiradalla huipulle (Hafelekar 2256 m) → lounas alppiravintolassa → lyhyt maisemakävely huipulla
+*   **Sopii:** Luonnosta ja upeista näköaloista kiinnostuneille ilman pitkää ajoaikaa.
+*   **Karttalinkki:** [Ajo-ohjeet ala-asemalle kartalla (Sellrain - Innsbruck Congress)](https://www.google.com/maps/dir/Sellrain/Congress+Innsbruck,+Rennweg,+Innsbruck)
 
 ### Retki 4: Stubaier Gletscher ja alppijäätikkö (6-7 tuntia)
-**Etäisyys:** n. 40 km etelään Innsbruckista  
-**Kohteita:** Ajo Stubaital-laaksoa pitkin → köysiradalla jäätikölle (3210 m) → jäätikkökävely ja jääluola  
-**Sopii:** Korkeista vuorista ja lumisista alppimaisemista kiinnostuneille. Vaatii autokyydin tai bussimatkan.
+*   **Etäisyys Sellrainista:** n. 55 km etelään (n. 55 min ajoaika suuntaansa).
+*   **Kohteita:** Ajo Stubaital-laaksoa pitkin → köysiradalla jäätikölle (3210 m) → jäätikkökävely ja jääluola
+*   **Sopii:** Korkeista vuorista ja lumisista alppimaisemista kiinnostuneille.
+*   **Karttalinkki:** [Ajo-ohjeet ja reitti kartalla (Sellrain - Stubaier Gletscher)](https://www.google.com/maps/dir/Sellrain/Stubaier+Gletscher,+Neustift+im+Stubaital)
 
 ### Retki 5: Zillertal-laakso ja aktiviteetit (6-7 tuntia)
-**Etäisyys:** n. 45 km itään Innsbruckista  
-**Kohteita:** Zillertal Arena → kävely tai pyöräily laaksossa → vierailu alppikylässä  
-**Sopii:** Ulkoilusta ja kauniista laaksonäkymistä nauttiville.
+*   **Etäisyys Sellrainista:** n. 70 km itään (n. 1 h ajoaika).
+*   **Kohteita:** Zillertal Arena → kävely tai pyöräily laaksossa → vierailu alppikylässä
+*   **Sopii:** Ulkoilusta ja kauniista laaksonäkymistä nauttiville.
+*   **Karttalinkki:** [Ajo-ohjeet ja reitti kartalla (Sellrain - Zillertal)](https://www.google.com/maps/dir/Sellrain/Zillertal)
 
 ### Retki 6: Hall in Tirol + Igls historiallinen retki (4-5 tuntia)
-**Etäisyys:** n. 10-15 km Innsbruckista  
-**Kohteita:** Hall in Tirolin keskiaikainen vanhakaupunki → Iglsin olympiamaisemat ja kylä  
-**Sopii:** Historiasta kiinnostuneille. Kompakti retki lähellä Innsbruckia ilman pitkää matkustamista.
+*   **Etäisyys Sellrainista:** n. 30–35 km (n. 30 min ajoaika).
+*   **Kohteita:** Hall in Tirolin keskiaikainen vanhakaupunki → Iglsin olympiamaisemat ja kylä
+*   **Sopii:** Historiasta kiinnostuneille. Kompakti retki lähellä aluetta.
+*   **Karttalinkki:** [Ajo-ohjeet ja reitti kartalla (Sellrain - Igls - Hall in Tirol)](https://www.google.com/maps/dir/Sellrain/Igls,+Innsbruck/Hall+in+Tirol)
 
 ### Retki 7: Ötztalin alppilaakso ja Stuibenfall-vesiputous (7-8 tuntia)
-**Etäisyys:** n. 50 km länteen Innsbruckista  
-**Kohteita:** Ötztal-laakso → patikointi Stuibenfall-vesiputoukselle (Tirolin korkein vesiputous) → vierailu Ötzi-kylän ulkoilmamuseossa  
-**Sopii:** Luonnonystäville ja historiasta kiinnostuneille. Upea ja realistinen kokopäiväretki.
+*   **Etäisyys Sellrainista:** n. 35 km länteen Kühtain vuoristosolan kautta (tai n. 45 km moottoritietä pitkin, molemmissa ajoaika n. 35–40 min).
+*   **Kohteita:** Ötztal-laakso → patikointi Stuibenfall-vesiputoukselle (Tirolin korkein vesiputous) → vierailu Ötzi-kylän ulkoilmamuseossa
+*   **Sopii:** Luonnonystäville ja historiasta kiinnostuneille. Upea ja realistinen kokopäiväretki.
+*   **Karttalinkki:** [Ajo-ohjeet ja reitti kartalla (Sellrain - Oetz)](https://www.google.com/maps/dir/Sellrain/Oetz)
 
 ### Retki 8: Kompakti yhdistelmäretki (4-5 tuntia)
-**Etäisyys:** n. 5 km säteellä  
-**Kohteita:** Innsbruckin keskusta (Golden Roof, Hofkirche) → siirtyminen Ambrasin linnaan → lounas  
-**Sopii:** Matkailijoille, jotka haluavat nähdä tärkeimmät kaupunkikohteet lyhyessä ajassa.
+*   **Etäisyys Sellrainista:** n. 25 km siirtymät kohteisiin.
+*   **Kohteita:** Innsbruckin keskusta (Golden Roof, Hofkirche) → siirtyminen Ambrasin linnaan → lounas
+*   **Sopii:** Matkailijoille, jotka haluavat nähdä tärkeimmät kaupunkikohteet lyhyessä ajassa.
+*   **Karttalinkki:** [Ajo-ohjeet ja reitti kartalla (Sellrain - Innsbruck Altstadt - Schloss Ambras)](https://www.google.com/maps/dir/Sellrain/Innsbruck+Altstadt/Schloss+Ambras,+Schlo%C3%9Fstra%C3%9Fe,+Innsbruck)
 
 ## Kartta kohteista ja retkistä
 
@@ -128,16 +138,17 @@ Erityisesti kesäkaudella ja heinäkuun lopussa (22.7.–28.7.2026) Innsbruckiss
   }).addTo(map);
 
   var markers = [
+    { name: "Sellrain (Lähtöpiste)", coords: [47.2133, 11.2181], desc: "Majoitus- ja aloituspiste." },
     { name: "Innsbruck (Keskusta)", coords: [47.2692, 11.4041], desc: "Kultainen katto (Goldenes Dachl), Hofkirche, Stadtturm." },
     { name: "Schloss Ambras", coords: [47.2636, 11.4319], desc: "Renessanssilinna ja taidekokoelmat." },
     { name: "Bergisel", coords: [47.2485, 11.3995], desc: "Bergiselin hyppyrimäki ja Tirol Panorama -museo." },
-    { name: "Hall in Tirol", coords: [47.2804, 11.5076], desc: "Keskiaikainen suolakaupunki (10 km)." },
-    { name: "Seefeld in Tirol", coords: [47.3294, 11.1873], desc: "Alppikylä ja ulkoilualue (40 km)." },
-    { name: "Stubaier Gletscher", coords: [46.9858, 11.1118], desc: "Stubai-jäätikkö ja hiihtoalue (30 km)." },
-    { name: "Festung Kufstein", coords: [47.5833, 12.1667], desc: "Kufsteinin linnoitus (75 km)." },
-    { name: "Mittenwald", coords: [47.4422, 11.2642], desc: "Kaunis baijerilainen viulunrakentajakylä Saksassa (40 km)." },
-    { name: "Ötztal-laakso", coords: [47.2343, 10.9856], desc: "Ötztalin alppilaakso (50 km)." },
-    { name: "Lienz (Schloss Bruck)", coords: [46.8317, 12.7533], desc: "Lienzin museo ja Bruckin linna (70 km)." }
+    { name: "Hall in Tirol", coords: [47.2804, 11.5076], desc: "Keskiaikainen suolakaupunki." },
+    { name: "Seefeld in Tirol", coords: [47.3294, 11.1873], desc: "Alppikylä ja ulkoilualue." },
+    { name: "Stubaier Gletscher", coords: [46.9858, 11.1118], desc: "Stubai-jäätikkö ja hiihtoalue." },
+    { name: "Festung Kufstein", coords: [47.5833, 12.1667], desc: "Kufsteinin linnoitus." },
+    { name: "Mittenwald", coords: [47.4422, 11.2642], desc: "Kaunis baijerilainen viulunrakentajakylä Saksassa." },
+    { name: "Ötztal-laakso", coords: [47.2343, 10.9856], desc: "Ötztalin alppilaakso ja vesiputous." },
+    { name: "Lienz (Schloss Bruck)", coords: [46.8317, 12.7533], desc: "Lienzin museo ja Bruckin linna." }
   ];
 
   markers.forEach(function(m) {

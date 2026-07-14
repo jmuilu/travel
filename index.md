@@ -27,9 +27,9 @@ Valitse alta matkakohde tutustuaksesi tarkemmin sen tarjontaan:
   }).addTo(map);
 
   var locations = [
-    { name: "München (Munich)", coords: [48.1351, 11.5820], desc: "Kulttuuria, puistoja ja historiaa Baijerin sydämessä.", link: "itävalta/Munich.md" },
-    { name: "Innsbruck", coords: [47.2692, 11.4041], desc: "Tirolin pääkaupunki, alppiluontoa ja historiaa.", link: "itävalta/Innsbruck.md" },
-    { name: "Zell am See", coords: [47.3235, 12.7968], desc: "Upeita alppijärvimaisemia ja jäätiköitä.", link: "itävalta/Zell_am_See.md" }
+    { name: "München (Munich)", coords: [48.1351, 11.5820], desc: "Kulttuuria, puistoja ja historiaa Baijerin sydämessä.", link: "itävalta/Munich.html" },
+    { name: "Innsbruck", coords: [47.2692, 11.4041], desc: "Tirolin pääkaupunki, alppiluontoa ja historiaa.", link: "itävalta/Innsbruck.html" },
+    { name: "Zell am See", coords: [47.3235, 12.7968], desc: "Upeita alppijärvimaisemia ja jäätiköitä.", link: "itävalta/Zell_am_See.html" }
   ];
 
   locations.forEach(function(loc) {
