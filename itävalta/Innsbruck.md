@@ -139,16 +139,20 @@ Kaikki retkiehdotukset on laskettu alkaviksi **Sellrainin** kylästä (n. 20 km 
 
   var markers = [
     { name: "Sellrain (Lähtöpiste)", coords: [47.2133, 11.2181], desc: "Majoitus- ja aloituspiste." },
-    { name: "Innsbruck (Keskusta)", coords: [47.2692, 11.4041], desc: "Kultainen katto (Goldenes Dachl), Hofkirche, Stadtturm." },
-    { name: "Schloss Ambras", coords: [47.2636, 11.4319], desc: "Renessanssilinna ja taidekokoelmat." },
-    { name: "Bergisel", coords: [47.2485, 11.3995], desc: "Bergiselin hyppyrimäki ja Tirol Panorama -museo." },
-    { name: "Hall in Tirol", coords: [47.2804, 11.5076], desc: "Keskiaikainen suolakaupunki." },
-    { name: "Seefeld in Tirol", coords: [47.3294, 11.1873], desc: "Alppikylä ja ulkoilualue." },
-    { name: "Stubaier Gletscher", coords: [46.9858, 11.1118], desc: "Stubai-jäätikkö ja hiihtoalue." },
-    { name: "Festung Kufstein", coords: [47.5833, 12.1667], desc: "Kufsteinin linnoitus." },
-    { name: "Mittenwald", coords: [47.4422, 11.2642], desc: "Kaunis baijerilainen viulunrakentajakylä Saksassa." },
-    { name: "Ötztal-laakso", coords: [47.2343, 10.9856], desc: "Ötztalin alppilaakso ja vesiputous." },
-    { name: "Lienz (Schloss Bruck)", coords: [46.8317, 12.7533], desc: "Lienzin museo ja Bruckin linna." }
+    { name: "Kultainen katto (Goldenes Dachl)", coords: [47.2686, 11.3933], desc: "[Nähtävyys] Innsbruckin tunnetuin maamerkki." },
+    { name: "Stadtturm", coords: [47.2685, 11.3937], desc: "[Nähtävyys] Keskiaikainen kaupungintorni näköaloilla." },
+    { name: "Hofkirche", coords: [47.2689, 11.3956], desc: "[Nähtävyys] Keisari Maximilian I:n hautakirkko." },
+    { name: "Keisarillinen palatsi (Hofburg)", coords: [47.2689, 11.3946], desc: "[Nähtävyys] Innsbruckin keisarillinen palatsi." },
+    { name: "Nordkette (Hafelekar)", coords: [47.3115, 11.3837], desc: "[Nähtävyys] Alppihuiput suoraan köysiradalla." },
+    { name: "Schloss Ambras", coords: [47.2636, 11.4319], desc: "[Museo] Upea renessanssilinna taidekokoelmineen." },
+    { name: "Bergisel & Tirol Panorama", coords: [47.2485, 11.3995], desc: "[Museo] Hyppyrimäki ja jättimäinen panoraamamaalaus." },
+    { name: "Hall in Tirol", coords: [47.2804, 11.5076], desc: "[Retkikohde] Keskiaikainen suolakaupunki (30 km Sellrainista)." },
+    { name: "Seefeld in Tirol", coords: [47.3294, 11.1873], desc: "[Retkikohde] Alppikylä ja ulkoilualue (35 km Sellrainista)." },
+    { name: "Stubaier Gletscher", coords: [46.9858, 11.1118], desc: "[Retkikohde] Stubai-jäätikkö ja hiihtoalue (55 km Sellrainista)." },
+    { name: "Festung Kufstein", coords: [47.5833, 12.1667], desc: "[Retkikohde] Kufsteinin linnoitus (95 km Sellrainista)." },
+    { name: "Mittenwald", coords: [47.4422, 11.2642], desc: "[Retkikohde] Kaunis viulunrakentajakylä Saksassa (45 km Sellrainista)." },
+    { name: "Ötztal-laakso (Oetz)", coords: [47.2343, 10.9856], desc: "[Retkikohde] Alppilaakso ja Stuibenfall-putous (35 km Sellrainista)." },
+    { name: "Lienz (Schloss Bruck)", coords: [46.8317, 12.7533], desc: "[Retkikohde] Lienzin museo ja Bruckin linna (195 km Sellrainista)." }
   ];
 
   markers.forEach(function(m) {
