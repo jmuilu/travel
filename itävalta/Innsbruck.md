@@ -1,0 +1,96 @@
+# Innsbruckin parhaimmat nähtävyydet ja museot
+
+## Nähtävyydet
+
+- [Golden Roof (Goldenes Dachl)](https://en.wikipedia.org/wiki/Golden_Roof) — Innsbruckin tunnetuin maamerkki, keskiaikainen rakennus, jonka upea kullattu katto on kaupungin symboli. Rakennettu 1500 keisari Maximilian I:n kunniaksi. 2657 kullatulla kuparitiilellä katettu parveke.
+
+- [Nordkette-vuoristo](https://www.nordkette.com/) — Köysirata vie suoraan kaupungista Alppien huipulle 2256 metriin. Näköalat ovat huikeat ja sopivat sekä retkeilijöille että maisemista nauttiville. Zaha Hadid suunnitteli modernit köysirata-asemat.
+
+- [Stadtturm](https://en.wikipedia.org/wiki/City_Tower) — Keskiaikainen kaupungintorni, josta avautuvat upeat näkymät Innsbruckin vanhaan kaupunkiin.
+
+- [Hofkirche](https://en.wikipedia.org/wiki/Hofkirche) — Keisari Maximilian I:n hautakirkko, jossa on vaikuttavat pronssipatsaat ja historiallinen tunnelma.
+
+## Museot
+
+- [Tyrolean State Museum (Tiroler Landesmuseum Ferdinandeum)](https://www.tiroler-landesmuseen.at/) — Tämä museo tarjoaa kattavan katsauksen Tirolin alueen historiaan ja taiteeseen. Museon kokoelmiin kuuluu arkeologisia löytöjä, keskiaikaista taidetta ja 19. vuosisadan maalauksia.
+
+- [Ambrasin linna (Schloss Ambras)](https://www.schlossambras-innsbruck.at/) — Upea renessanssilinna, joka sisältää merkittävän taide- ja aseidenkokoelman. Erihardvinand Ferdinand II rakennutti linnan 1500-luvulla. Kuuluisa "Wunderkammer"-ihmeiden kammio ja haarniskakokoelma.
+
+- [Tirol Panorama ja Kaiserjäger-museo](https://www.tiroler-landesmuseen.at/) — Panoraamamuseo esittelee Tirolin historiaa sekä kuuluisan 360° panoraamamaalauksen. Valtava ympyränmuotoinen maalaus kuvaa vuoden 1809 taistelua Bergiselissä.
+
+## Lähistöllä olevat nähtävyydet (100 km säteellä Innsbruckista)
+
+- [Hall in Tirol](https://www.hall-tirol.at/) — **10 km** — Keskiaikainen kaupunki, joka tunnetaan suolaliiketoiminnastaan. Kaunis vanha kaupunkikeskusta ja historiallinen ilmapiiri.
+
+- [Igls](https://www.igls.at/) — **15 km** — Kesäkunta ja laskettelu-kuningatar, jossa sijaitsivat 1976 talviolympialaiset luge- ja skeleton-kilpailut.
+
+- [Zillertal Arena](https://www.zillertal-arena.com/) — **30 km** — Suurmitta hiihtokeskus, jossa on yli 100 km hiihtoreittiä ja monenlaista aktiviteetteja.
+
+- [Stubaier Gletscher](https://www.stubaier-gletscher.com/) — **30 km** — Vuorikiipeilijöiden ja laskettelun paratiisi. Pääsee autolla jäätikkölle asti ja upea jäätikkövandring.
+
+- [Zillertal](https://www.zillertal.at/) — **30 km** — Laakso, joka tunnetaan hiihtokeskuksistaan ja luonnon retkeilyreiteistä. Jopa 5 hiihtokeskusta lähekkäin.
+
+- [Seefeld](https://www.seefeld.com/) — **40 km** — Kesäkuntoutuskeskus, joka tunnetaan pohjoisalppisille ski-leireillään ja harjoittelukeskukseksi.
+
+- [Mittenwald](https://www.mittenwald.de/) — **40 km** — Saksassa sijaitseva kaunis aikakauden kaupunki, joka tunnetaan värikkaista ja kuvatuista käsinkirjoitetuista talojaan.
+
+- [Ötztal](https://www.oetztal.com/) — **50 km** — Pitkä alppijärvi laakso, joka tarjoaa upeita retkipaikkoja. Upeat maisemot ja monenlaisia aktiviteetteja.
+
+- [Ehrwald & Lermoos](https://www.ehrwald.at/) — **60 km** — Pienet hiihtokaupungit, joissa on perhe- ja hiihtoleirit. Pääsee Zugspitzelle, Saksassa olevalle korkeimmalle vuorelle.
+
+## Sotaan liittyvät nähtävyydet
+
+- [Kaiserjäger-museo](https://www.tiroler-landesmuseen.at/) — **Innsbruckissa** — Museo esittelee keisarillisen jägeryynnin historiaa 1. maailmansodan ajalta sekä Tirolin taisteluja.
+
+- [Tirol Panorama](https://www.tiroler-landesmuseen.at/) — **Innsbruckissa** — Valtava 360° panoraamamaalaaus, joka kuvaa Tirolin 1809 vapaaottelua Napoleonia vastaan. Historiallinen monumentti.
+
+- [Forte Pré ja 1. maailmansodan linnoitukset](https://www.difesadiline.it/) — **40-50 km** — Ötztalin ja Stubaitalin alueella sijaitsee useita 1. maailmansodan puolustuslinjojen jäänteitä ja linnoituksia.
+
+- [Forte Corbin](https://www.forte-corbin.it/) — **50 km** — Avoin nähtäväksi saksalainen 1. maailmansodan linnoitus Zillertalissa, jossa näkyy alkuperäinen militaarinen rakentaminen.
+
+- [Lienz-museo](https://www.aguntum.at/) — **70 km** — Itätirolassa sijaitseva museo, joka esittelee Itäalueen historiaa ja 1. maailmansodan vaikutusta Tiroliin.
+
+- [Julier-passin 1. maailmansodan paikat](https://www.julierpass.ch/) — **80 km** — Alppipaikoilla sijaitsevat 1. maailmansodan porttivartijat ja puolustuspaikat, joissa käytiin kovimmat taistelut Alpeilla.
+
+- [Tre Cime di Lavaredo ja 1. maailmansodan paikat](https://www.sabinetrentino.it/en/) — **80 km** — Kuuluisa 1. maailmansodan taistelualue, jossa näkyvät vielä linnoitukset ja taistelun jäljet kallioilla.
+
+## Päiväretkiehdotukset
+
+### Retki 1: Innsbruckin kaupunkikeskusta (2-3 tuntia)
+**Etäisyys:** 0-1 km kävelevä retki  
+**Kohteita:** Golden Roof (Goldenes Dachl) → Hofkirche → Stadtturm → Marienplatz  
+**Sopii:** Kaikille, helppo kävelyretki historiallisen keskustan läpi. Voit nauttia muista alueella sijaitsevista kahviloista ja liikkeistä.
+
+### Retki 2: Innsbruckin museot ja alueet (4-5 tuntia)
+**Etäisyys:** 1-3 km lyhyillä autoissa/busseilla  
+**Kohteita:** Ambrasin linna (Schloss Ambras) → Tirol Panorama ja Kaiserjäger-museo → Tyrolean State Museum  
+**Sopii:** Taideista ja historiasta kiinnostuneet. Hyvä yhdistelmä, voit viettää useita tunteja museoissa.
+
+### Retki 3: Alppi luonto retki (6-7 tuntia)
+**Etäisyys:** 30 km molemmin puolin  
+**Kohteita:** Nordkette-vuoristo (köysirata huipulle) → lounas alpeilla → Stubaier Gletscher (jäätikkövandring)  
+**Sopii:** Luonnosta ja patikoinnista pitävät. Upeita näköaloja, mutta vaatii hyvää kuntoa.
+
+### Retki 4: Zillertal laakso päiväretki (6-7 tuntia)
+**Etäisyys:** 30 km + kuljetus laakon sisällä  
+**Kohteita:** Zillertal Arena → Zillertal laakson ratsastusreitit → pieni pysähdys tai kahvila  
+**Sopii:** Urheiluista ja ulkoilusta pitävät. Kaunis laakso ja monipuoliset aktiviteetit.
+
+### Retki 5: Hall in Tirol + Igls historiallinen retki (5-6 tuntia)
+**Etäisyys:** 10-15 km kumpainen  
+**Kohteita:** Hall in Tirol keskusta (suola-historia) → Igls olympialaiset paikat ja kunta  
+**Sopii:** Historiasta kiinnostuneet. Kompakti retki ilman pitkää ajoa, mukava kylät.
+
+### Retki 6: Ötztal ja 1. maailmansodan kohteita (7-8 tuntia)
+**Etäisyys:** 50 km ja Forte Pré linnoitukset 40-50 km  
+**Kohteita:** Ötztal laakso → Forte Pré ja 1. maailmansodan puolustuslinnjat → Ötztal patikointi  
+**Sopii:** Historiasta ja luonnosta kiinnostuneet. Mahtava yhdistelmä historiaa ja alppimaisia maisemia.
+
+### Retki 7: Compact retki 30 km sisällä (4-5 tuntia)
+**Etäisyys:** 30 km molemmin puolin  
+**Kohteita:** Innsbruckin keskusta (Golden Roof, Hofkirche) → Ambrasin linna → lounas  
+**Sopii:** Haluavat nähdä eniten minimaalilla ajalla. Hyvä yhdistelmä kaupunkia ja historiallista linnaa.
+
+---
+
+
