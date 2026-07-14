@@ -2,37 +2,37 @@
 
 ## Nähtävyydet
 
-- [Marienplatz](https://en.wikipedia.org/wiki/Marienplatz) — Municin sydän, jossa sijaitsevat Uusi Kaupungintalo (Neues Rathaus) ja Pyhän Marian patsas. Kaunis keskiaikainen aukio.
+- [Marienplatz](https://en.wikipedia.org/wiki/Marienplatz) — Municin sydän, jossa sijaitsevat Uusi Kaupungintalo (Neues Rathaus) ja Pyhän Marian patsas. Kaunis keskiaikainen aukio. [Hae Googlesta](https://www.google.com/search?q=Marienplatz+Munich)
 
-- [Schloss Nymphenburg](https://fi.wikipedia.org/wiki/Nymphenburgin_linna) — Barokkityylinen kuninkaalaten kesäpalatsi, jossa on kaunis puisto ja useita sivurakennuksia. Huipputarkoituksellinen 18. vuosisadalta.
+- [Schloss Nymphenburg](https://fi.wikipedia.org/wiki/Nymphenburgin_linna) — Barokkityylinen kuninkaalaten kesäpalatsi, jossa on kaunis puisto ja several sivurakennuksia. Huipputarkoituksellinen 18. vuosisadalta. [Hae Googlesta](https://www.google.com/search?q=Schloss+Nymphenburg+Munich)
 
-- [Marienkirche (Frauenkirche)](https://fi.wikipedia.org/wiki/Frauenkirche_(M%C3%BCnchen)) — Münchenin kuuluisa goottilainen katedraali, jossa on kaksi kuuluisaa tornia. Rakennettu 1468-1494. Tornit are 99 metriä korkeat ja niistä on upeat näköalat yli Münchenin ja Alpeille.
+- [Marienkirche (Frauenkirche)](https://fi.wikipedia.org/wiki/Frauenkirche_(M%C3%BCnchen)) — Münchenin kuuluisa goottilainen katedraali, jossa on kaksi kuuluisaa tornia. Rakennettu 1468-1494. Tornit are 99 metriä korkeat ja niistä on upeat näköalat yli Münchenin ja Alpeille. [Hae Googlesta](https://www.google.com/search?q=Frauenkirche+Munich)
 
-- [Englischer Garten](https://en.wikipedia.org/wiki/English_Garden) — Yksi maailman suurimmista kaupunkipuistoista (417 hehtaaria), jossa on ratsastusreittejä, jokirantaa ja kahviloita. Tunnettu Eisbach-joen surffaajista ja Kiinan tornista (Chinesischer Turm).
+- [Englischer Garten](https://en.wikipedia.org/wiki/English_Garden) — Yksi maailman suurimmista kaupunkipuistoista (417 hehtaaria), jossa on ratsastusreittejä, jokirantaa ja kahviloita. Tunnettu Eisbach-joen surffaajista ja Kiinan tornista (Chinesischer Turm). [Hae Googlesta](https://www.google.com/search?q=Englischer+Garten+Munich)
 
-- [BMW-museo ja BMW Welt](https://en.wikipedia.org/wiki/BMW_Museum) — Automuseo ja näyttely, joka esittelee BMW:n historiaa ja tulevaisuutta. Modernit näyttelyt ja interaktiiviset kokemukset. BMW Welt on vaikuttava arkkitehtoninen rakennus.
+- [BMW-museo ja BMW Welt](https://en.wikipedia.org/wiki/BMW_Museum) — Automuseo ja näyttely, joka esittelee BMW:n historiaa ja tulevaisuutta. Modernit näyttelyt ja interaktiiviset kokemukset. BMW Welt on vaikuttava arkkitehtoninen rakennus. [Hae Googlesta](https://www.google.com/search?q=BMW+Museum+Munich)
 
 ## Museot
 
-- [Deutsches Museum (Saksan museo)](https://fi.wikipedia.org/wiki/Deutsches_Museum) — Yksi maailman suurimmista tai teollisista ja teknisistä museoista. Valtavat kokoelmat luonnontieteistä ja tekniikasta.
+- [Deutsches Museum (Saksan museo)](https://fi.wikipedia.org/wiki/Deutsches_Museum) — Yksi maailman suurimmista tai teollisista ja teknisistä museoista. Valtavat kokoelmat luonnontieteistä ja tekniikasta. [Hae Googlesta](https://www.google.com/search?q=Deutsches+Museum+Munich)
 
-- [Alte Pinakothek](https://fi.wikipedia.org/wiki/Alte_Pinakothek) — Kuuluisa taidemuseo, jossa on eurooppalaisen taiteen mestariteoksia 14.-18. vuosisadalta.
+- [Alte Pinakothek](https://fi.wikipedia.org/wiki/Alte_Pinakothek) — Kuuluisa taidemuseo, jossa on eurooppalaisen taiteen mestariteoksia 14.-18. vuosisadalta. [Hae Googlesta](https://www.google.com/search?q=Alte+Pinakothek+Munich)
 
-- [Neues Rathaus (Uusi Kaupungintalo)](https://en.wikipedia.org/wiki/New_Town_Hall_(Munich)) — Goottilainen rakennelma Marienplatzilla, jossa on kuuluisa Glockenspiel-kellotorni. Kellot soivat päivittäin klo 11 ja 12 (kesällä myös klo 17).
+- [Neues Rathaus (Uusi Kaupungintalo)](https://en.wikipedia.org/wiki/New_Town_Hall_(Munich)) — Goottilainen rakennelma Marienplatzilla, jossa on kuuluisa Glockenspiel-kellotorni. Kellot soivat päivittäin klo 11 ja 12 (kesällä myös klo 17). [Hae Googlesta](https://www.google.com/search?q=Neues+Rathaus+Munich)
 
-- [Residenz](https://en.wikipedia.org/wiki/Munich_Residenz) — Kuninkaalaten asuinpalatsi, jossa on upeat sallit ja taidekokoelmat. 14. vuosisadasta 20. vuosisadalle.
+- [Residenz](https://en.wikipedia.org/wiki/Munich_Residenz) — Kuninkaalaten asuinpalatsi, jossa on upeat sallit ja taidekokoelmat. 14. vuosisadasta 20. vuosisadalle. [Hae Googlesta](https://www.google.com/search?q=Residenz+Munich)
 
-- [Haus der Kunst](https://fi.wikipedia.org/wiki/Haus_der_Kunst) — Modernin taiteen museo naziaikaisella historialla. Merkittävä näyttelypaikka nykyaikaiselle taiteelle.
+- [Haus der Kunst](https://fi.wikipedia.org/wiki/Haus_der_Kunst) — Modernin taiteen museo naziaikaisella historialla. Merkittävä näyttelypaikka nykyaikaiselle taiteelle. [Hae Googlesta](https://www.google.com/search?q=Haus+der+Kunst+Munich)
 
 ## Taide, käsityö ja kulttuuri
 
 München tarjoaa poikkeuksellisen laajan kattauksen huipputaidetta, perinteistä käsityötä ja teollista kulttuuria:
 
-*   [Lenbachhaus](https://fi.wikipedia.org/wiki/Lenbachhaus) — Taidemuseo, joka tunnetaan erityisesti maailman laajimmasta *Der Blaue Reiter* (Sininen ratsastaja) -ryhmän ekspressionistisen taiteen kokoelmasta.
-*   [Kunsthalle München](https://www.kunsthalle-muc.de/en/) — Yksi Saksan suosituimmista ja arvostetuimmista vaihtuvien taidenäyttelyiden halleista, joka sijaitsee aivan kaupungin ydinkeskustassa Fünf Höfe -korttelissa.
-*   [Bayerisches Nationalmuseum (Baijerin kansallismuseo)](https://fi.wikipedia.org/wiki/Bayerisches_Nationalmuseum) — Upea kulttuurihistoriallinen museo, joka esittelee eurooppalaista taidetta ja taidekäsityötä keskiajalta 1900-luvun alkuun.
-*   [Radspieler ja Glockenbachviertelin käsityöt](https://www.radspieler.com/) — Radspieler on historiallinen (perustettu 1848) design- ja käsityökauppa Münchenin keskustassa, joka on kuuluisa laadukkaista kankaistaan ja huonekaluistaan. Trendikäs Glockenbachviertelin alue on myös tunnettu pienistä artesaani- ja käsityöpajoista.
-*   [Valentin-Karlstadt-Musäum](https://www.valentin-musaeum.de) — Isartorin historiallisessa tornissa sijaitseva persoonallinen ja absurdista huumoria huokuva museo, joka on omistettu Münchenin omalle koomikolle Karl Valentinille ja esittelee kaupungin kansankulttuuria ja teatterihistoriaa.
+*   [Lenbachhaus](https://fi.wikipedia.org/wiki/Lenbachhaus) — Taidemuseo, joka tunnetaan erityisesti maailman laajimmasta *Der Blaue Reiter* (Sininen ratsastaja) -ryhmän ekspressionistisen taiteen kokoelmasta. [Hae Googlesta](https://www.google.com/search?q=Lenbachhaus+Munich)
+*   [Kunsthalle München](https://www.kunsthalle-muc.de/en/) — Yksi Saksan suosituimmista ja arvostetuimmista vaihtuvien taidenäyttelyiden halleista, joka sijaitsee aivan kaupungin ydinkeskustassa Fünf Höfe -korttelissa. [Hae Googlesta](https://www.google.com/search?q=Kunsthalle+Munich)
+*   [Bayerisches Nationalmuseum (Baijerin kansallismuseo)](https://fi.wikipedia.org/wiki/Bayerisches_Nationalmuseum) — Upea kulttuurihistoriallinen museo, joka esittelee eurooppalaista taidetta ja taidekäsityötä keskiajalta 1900-luvun alkuun. [Hae Googlesta](https://www.google.com/search?q=Bayerisches+Nationalmuseum+Munich)
+*   [Radspieler ja Glockenbachviertelin käsityöt](https://www.radspieler.com/) — Radspieler on historiallinen (perustettu 1848) design- ja käsityökauppa Münchenin keskustassa, joka on kuuluisa laadukkaista kankaistaan ja huonekaluistaan. Trendikäs Glockenbachviertelin alue on myös tunnettu pienistä artesaani- ja käsityöpajoista. [Hae Googlesta](https://www.google.com/search?q=Radspieler+Munich)
+*   [Valentin-Karlstadt-Musäum](https://www.valentin-musaeum.de) — Isartorin historiallisessa tornissa sijaitseva persoonallinen ja absurdista huumoria huokuva museo, joka on omistettu Münchenin omalle koomikolle Karl Valentinille ja esittelee kaupungin kansankulttuuria ja teatterihistoriaa. [Hae Googlesta](https://www.google.com/search?q=Valentin-Karlstadt-Musaeum+Munich)
 
 ## Lähistöllä olevat nähtävyydet (100 km säteellä Münchenstä)
 

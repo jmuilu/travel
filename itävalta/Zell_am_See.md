@@ -1,46 +1,44 @@
 # Zell am Seen parhaimmat nähtävyydet ja museot
-
 ## Nähtävyydet
 
-- [Zeller See -järvi](https://en.wikipedia.org/wiki/Lake_Zell) — Kaunis alppijärvi, jossa voi uida, purjehtia ja nauttia upeista maisemista. Järven ympärillä monenlaista aktiviteetteja kaikille ikeille.
+- [Zeller See -järvi](https://en.wikipedia.org/wiki/Lake_Zell) — Kaunis alppijärvi, jossa voi uida, purjehtia ja nauttia upeista maisemista. Järven ympärillä monenlaista aktiviteetteja kaikille ikeille. [Hae Googlesta](https://www.google.com/search?q=Zeller+See)
 
-- [Schmittenhöhe-vuori](https://en.wikipedia.org/wiki/Schmittenh%C3%B6he) — Köysirata vie vuorelle, josta avautuvat upeät näköalat järvelle ja Alpeille. Kesällä retkeilyä, talvella laskettelu.
+- [Schmittenhöhe-vuori](https://en.wikipedia.org/wiki/Schmittenh%C3%B6he) — Köysirata vie vuorelle, josta avautuvat upeät näköalat järvelle ja Alpeille. Kesällä retkeilyä, talvella laskettelu. [Hae Googlesta](https://www.google.com/search?q=Schmittenhoehe)
 
-- [Kaprun-linna (Burg Kaprun)](https://www.zellamsee-kaprun.com/en/activities-shops/activities/kaprun-castle) — Historiallinen 1200-luvun linna, joka sijaitsee 40 metrin kallioiden päällä. Kaunis näköala alas laakolle.
+- [Kaprun-linna (Burg Kaprun)](https://www.zellamsee-kaprun.com/en/activities-shops/activities/kaprun-castle) — Historiallinen 1200-luvun linna, joka sijaitsee 40 metrin kallioiden päällä. Kaunis näköala alas laakolle. [Hae Googlesta](https://www.google.com/search?q=Burg+Kaprun)
 
-- [Kitzsteinhorn-vuori ja jäätikkö - Gipfelwelt 3000](https://fi.wikipedia.org/wiki/Kitzsteinhorn) — Vuori, jolla sijaitsee Kaprun jäätikkö. Gondolilla yli 3000m korkeudelle (3203m). Kolme köysiratalaa ja spektakulaaret näköalat. Gipfelwelt 3000 -tasanne tarjoaa panoraamanäköalat.
+- [Kitzsteinhorn-vuori ja jäätikkö - Gipfelwelt 3000](https://fi.wikipedia.org/wiki/Kitzsteinhorn) — Vuori, jolla sijaitsee Kaprun jäätikkö. Gondolilla yli 3000m korkeudelle (3203m). Kolme köysiratalaa ja spektakulaaret näköalat. Gipfelwelt 3000 -tasanne tarjoaa panoraamanäköalat. [Hae Googlesta](https://www.google.com/search?q=Kitzsteinhorn)
 
-- [Zell am See kaupunkikeskusta](https://fi.wikipedia.org/wiki/Zell_am_See) — Viihtyisä järvikaupungin keskusta, joissa on liikkeitä, ravintoloita ja kahviloita. Kaunis kävelyreitti rannalla.
+- [Zell am See kaupunkikeskusta](https://fi.wikipedia.org/wiki/Zell_am_See) — Viihtyisä järvikaupungin keskusta, joissa on liikkeitä, ravintoloita ja kahviloita. Kaunis kävelyreitti rannalla. [Hae Googlesta](https://www.google.com/search?q=Zell+am+See+town+center)
 
-- [Hohenwerferin linna (Hohenwerfen Castle)](https://en.wikipedia.org/wiki/Hohenwerfen_Castle) — **50 km** — Historiallinen vuonna 1077 rakennettu linna Salzachin laaksossa. Kuuluisa petolintujen esityksistä. Huipulla upeä näköala. Käytetty elokuvan The Sound of Music kuvauksissa.
+- [Hohenwerfenin linna (Hohenwerfen Castle)](https://en.wikipedia.org/wiki/Hohenwerfen_Castle) — **50 km** — Historiallinen vuonna 1077 rakennettu linna Salzachin laaksossa. Kuuluisa petolintujen esityksistä. Huipulla upeä näköala. Käytetty elokuvan The Sound of Music kuvauksissa. [Hae Googlesta](https://www.google.com/search?q=Hohenwerfen+Castle)
 
-- [Eisrisenwelt jääluola](https://fi.wikipedia.org/wiki/Eisriesenwelt) — **70 km** — Maailman suurin jääluola (42 km), haastava reitti (700 porrasta ylös kallion sisällä). Upea luonnonilmiö. Avoinna toukokuusta lokakuuhun. Lämpötila luolassa noin 0°C.
+- [Eisrisenwelt jääluola](https://fi.wikipedia.org/wiki/Eisriesenwelt) — **70 km** — Maailman suurin jääluola (42 km), haastava reitti (700 porrasta ylös kallion sisällä). Upea luonnonilmiö. Avoinna toukokuusta lokakuuhun. Lämpötila luolassa noin 0°C. [Hae Googlesta](https://www.google.com/search?q=Eisriesenwelt)
 
-- [Grossglocknerin alppitie ja Heiligenblut](https://fi.wikipedia.org/wiki/Grossglocknerin_alppitie) — **80 km** — Itävallan korkein vuori Grossglockner (3798m) ja panoraamatie liitteineen. Heiligenblut on äänestetty usein Itävallan kauneimmaksi alppikyläksi.
+- [Grossglocknerin alppitie ja Heiligenblut](https://fi.wikipedia.org/wiki/Grossglocknerin_alppitie) — **80 km** — Itävallan korkein vuori Grossglockner (3798m) ja panoraamatie liitteineen. Heiligenblut on äänestetty usein Itävallan kauneimmaksi alppikyläksi. [Hae Googlesta](https://www.google.com/search?q=Grossglockner+High+Alpine+Road)
 
-- [Edelweissspitz ja Pasterzen jäätikkö](https://fi.wikipedia.org/wiki/Pasterze) — **80 km** — Näköalapaikka, josta näkymät Itävallan suurimmalle Pasterzen jäätikkölle. Mahtavat näköalat.
+- [Edelweissspitz ja Pasterzen jäätikkö](https://fi.wikipedia.org/wiki/Pasterze) — **80 km** — Näköalapaikka, josta näkymät Itävallan suurimmalle Pasterzen jäätikkölle. Mahtavat näköalat. [Hae Googlesta](https://www.google.com/search?q=Edelweissspitze+Pasterze)
 
-- [Gerlos Alpine Road](https://en.wikipedia.org/wiki/Gerlos_Pass) — **Lähellä Zell am Seesta** — Panoraamatie, joka yhdistää Zillertalin Ötztaliin. Korkea alppirata, 2000m+ näköalojen kanssa.
+- [Gerlos Alpine Road](https://en.wikipedia.org/wiki/Gerlos_Pass) — **Lähellä Zell am Seesta** — Panoraamatie, joka yhdistää Zillertalin Ötztaliin. Korkea alppirata, 2000m+ näköalojen kanssa. [Hae Googlesta](https://www.google.com/search?q=Gerlos+Alpine+Road)
 
 ## Museot
 
-- [Vogtturm (Vogt-torni)](https://de.wikipedia.org/wiki/Vogtturm_(Zell_am_See)) — Historiallinen torni 13. vuosisadalta, jossa on näyttelyitä kaupungin historiasta.
+- [Vogtturm (Vogt-torni)](https://de.wikipedia.org/wiki/Vogtturm_(Zell_am_See)) — Historiallinen torni 13. vuosisadalta, jossa on näyttelyitä kaupungin historiasta. [Hae Googlesta](https://www.google.com/search?q=Vogtturm+Zell+am+See)
 
-- [Pfarrkirche (Pyhän Hippolytuksen kirkko)](https://de.wikipedia.org/wiki/Stadtpfarrkirche_St._Hippolyt_(Zell_am_See)) — Rakennettu 1200-luvulla, kirkossa on kaunis sisustus ja historiallisementi arvokkaita yksityiskohtia.
+- [Pfarrkirche (Pyhän Hippolytuksen kirkko)](https://de.wikipedia.org/wiki/Stadtpfarrkirche_St._Hippolyt_(Zell_am_See)) — Rakennettu 1200-luvulla, kirkossa on kaunis sisustus ja historiallisementi arvokkaita yksityiskohtia. [Hae Googlesta](https://www.google.com/search?q=Stadtpfarrkirche+St.+Hippolyt+Zell+am+See)
 
-- [Salzburg-museo](https://en.wikipedia.org/wiki/Salzburg_Museum) — Salzburgin aluehistoriaa esittelevä museo.
+- [Salzburg-museo](https://en.wikipedia.org/wiki/Salzburg_Museum) — Salzburgin aluehistoriaa esittelevä museo. [Hae Googlesta](https://www.google.com/search?q=Salzburg+Museum)
 
-- [Hohe Tauern kansallispuiston näyttelykeskus](https://fi.wikipedia.org/wiki/Hohe_Tauern) — Näyttelykeskus, joka esittelee Hohe Tauern kansallispuiston luontoa ja historiaa. Interaktiiviset näyttelyt ja tietoa alppiluonnosta.
+- [Hohe Tauern kansallispuiston näyttelykeskus](https://fi.wikipedia.org/wiki/Hohe_Tauern) — Näyttelykeskus, joka esittelee Hohe Tauern kansallispuiston luontoa ja historiaa. Interaktiiviset näyttelyt ja tietoa alppiluonnosta. [Hae Googlesta](https://www.google.com/search?q=Hohe+Tauern+National+Park+Center+Mittersill)
 
 ## Taide, käsityö ja kulttuuri
 
 Zell am Seen ja Kaprunin alue tarjoaa upeita luonnon ja kulttuurin yhdistelmiä, perinteistä käsityötä sekä ainutlaatuisia näyttelyitä:
 
-*   [Art on the Mountain (Schmittenhöhe)](https://www.zellamsee-kaprun.com/en/activities-shops/activities/art-on-the-mountain) — Euroopan korkeimmalla sijaitseva ulkoilmataidenäyttely Schmittenhöhe-vuorella. Retkeilyreittien varrelle on sijoitettu yli 20 suuren koon puu-, kivi- ja keramiikkaveistosta kansainvälisiltä taiteilijoilta.
-*   [Museum Vogtturm](https://de.wikipedia.org/wiki/Vogtturm_(Zell_am_See)) — Zell am Seen vanhimmassa rakennuksessa, keskiaikaisessa tornissa, sijaitseva museo esittelee alueen historiaa, taidetta ja paikallista käsityötä (kuten historiallista pukeutumista ja Porsche Design -näyttelyitä).
-*   [Kaprun Museum](https://www.zellamsee-kaprun.com/en/activities-shops/activities/kaprun-museum) — Kaprunin keskustassa vanhassa alppitalossa sijaitseva museo, joka kertoo alueen 4000-vuotisesta historiasta, alppiviljelykulttuurista sekä suurpatojen ja köysiratojen rakentamisen historiasta.
-*   [Vötter's Vehicle Museum (Vötterin automuseo)](http://www.oldtimer-museum.at) — Kaprunissa sijaitseva suosittu yksityinen museo, jossa on nähtävillä noin 200 klassikkoautoa, moottoripyörää ja toisen maailmansodan jälkeistä ajoneuvoa 1950–1970-luvuilta.
-
+*   [Art on the Mountain (Schmittenhöhe)](https://www.zellamsee-kaprun.com/en/activities-shops/activities/art-on-the-mountain) — Euroopan korkeimmalla sijaitseva ulkoilmataidenäyttely Schmittenhöhe-vuorella. Retkeilyreittien varrelle on sijoitettu yli 20 suuren koon puu-, kivi- ja keramiikkaveistosta kansainvälisiltä taiteilijoilta. [Hae Googlesta](https://www.google.com/search?q=Art+on+the+Mountain+Schmittenhoehe)
+*   [Museum Vogtturm](https://de.wikipedia.org/wiki/Vogtturm_(Zell_am_See)) — Zell am Seen vanhimmassa rakennuksessa, keskiaikaisessa tornissa, sijaitseva museo esittelee alueen historiaa, taidetta ja paikallista käsityötä (kuten historiallista pukeutumista ja Porsche Design -näyttelyitä). [Hae Googlesta](https://www.google.com/search?q=Museum+Vogtturm+Zell+am+See)
+*   [Kaprun Museum](https://www.zellamsee-kaprun.com/en/activities-shops/activities/kaprun-museum) — Kaprunin keskustassa vanhassa alppitalossa sijaitseva museo, joka kertoo alueen 4000-vuotisesta historiasta, alppiviljelykulttuurista sekä suurpatojen ja köysiratojen rakentamisen historiasta. [Hae Googlesta](https://www.google.com/search?q=Kaprun+Museum)
+*   [Vötter's Vehicle Museum (Vötterin automuseo)](http://www.oldtimer-museum.at) — Kaprunissa sijaitseva suosittu yksityinen museo, jossa on nähtävillä noin 200 klassikkoautoa, moottoripyörää ja toisen maailmansodan jälkeistä ajoneuvoa 1950–1970-luvuilta. [Hae Googlesta](https://www.google.com/search?q=Voetters+Oldtimer+Museum+Kaprun)
 ## Lähistöllä olevat nähtävyydet (100 km säteellä Zell am Seesta)
 
 - [Salzburg kaupunki](https://fi.wikipedia.org/wiki/Salzburg) — **70 km** — Salzburgin historian keskusta, Mozartin syntymäpaikka. Kaunis barokki arkkitehtuuri ja historiallinen ilmapiiri.

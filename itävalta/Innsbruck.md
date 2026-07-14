@@ -2,30 +2,30 @@
 
 ## Nähtävyydet
 
-- [Golden Roof (Goldenes Dachl)](https://en.wikipedia.org/wiki/Golden_Roof) — Innsbruckin tunnetuin maamerkki, keskiaikainen rakennus, jonka upea kullattu katto on kaupungin symboli. Rakennettu 1500 keisari Maximilian I:n kunniaksi. 2657 kullatulla kuparitiilellä katettu parveke.
+- [Golden Roof (Goldenes Dachl)](https://en.wikipedia.org/wiki/Golden_Roof) — Innsbruckin tunnetuin maamerkki, keskiaikainen rakennus, jonka upea kullattu katto on kaupungin symboli. Rakennettu 1500 keisari Maximilian I:n kunniaksi. 2657 kullatulla kuparitiilellä katettu parveke. [Hae Googlesta](https://www.google.com/search?q=Goldenes+Dachl+Innsbruck)
 
-- [Nordkette-vuoristo](https://en.wikipedia.org/wiki/Nordkette) — Köysirata vie suoraan kaupungista Alppien huipulle 2256 metriin. Näköalat ovat huikeat ja sopivat sekä retkeilijöille että maisemista nauttiville. Zaha Hadid suunnitteli modernit köysirata-asemat.
+- [Nordkette-vuoristo](https://en.wikipedia.org/wiki/Nordkette) — Köysirata vie suoraan kaupungista Alppien huipulle 2256 metriin. Näköalat ovat huikeat ja sopivat sekä retkeilijöille että maisemista nauttiville. Zaha Hadid suunnitteli modernit köysirata-asemat. [Hae Googlesta](https://www.google.com/search?q=Nordkette+Innsbruck)
 
-- [Stadtturm](https://www.innsbruck.info/en/destinations/sights/stadtturm.html) — Keskiaikainen kaupungintorni, josta avautuvat upeat näkymät Innsbruckin vanhaan kaupunkiin.
+- [Stadtturm](https://www.innsbruck.info/en/destinations/sights/stadtturm.html) — Keskiaikainen kaupungintorni, josta avautuvat upeat näkymät Innsbruckin vanhaan kaupunkiin. [Hae Googlesta](https://www.google.com/search?q=Stadtturm+Innsbruck)
 
-- [Hofkirche](https://en.wikipedia.org/wiki/Hofkirche,_Innsbruck) — Keisari Maximilian I:n hautakirkko, jossa on vaikuttavat pronssipatsaat ja historiallinen tunnelma.
+- [Hofkirche](https://en.wikipedia.org/wiki/Hofkirche,_Innsbruck) — Keisari Maximilian I:n hautakirkko, jossa on vaikuttavat pronssipatsaat ja historiallinen tunnelma. [Hae Googlesta](https://www.google.com/search?q=Hofkirche+Innsbruck)
 
 ## Museot
 
-- [Tyrolean State Museum (Tiroler Landesmuseum Ferdinandeum)](https://en.wikipedia.org/wiki/Tyrolean_State_Museum) — Tämä museo tarjoaa kattavan katsauksen Tirolin alueen historiaan ja taiteeseen. Museon kokoelmiin kuuluu arkeologisia löytöjä, keskiaikaista taidetta ja 19. vuosisadan maalauksia.
+- [Tyrolean State Museum (Tiroler Landesmuseum Ferdinandeum)](https://en.wikipedia.org/wiki/Tyrolean_State_Museum) — Tämä museo tarjoaa kattavan katsauksen Tirolin alueen historiaan ja taiteeseen. Museon kokoelmiin kuuluu arkeologisia löytöjä, keskiaikaista taidetta ja 19. vuosisadan maalauksia. [Hae Googlesta](https://www.google.com/search?q=Tiroler+Landesmuseen+Ferdinandeum)
 
-- [Ambrasin linna (Schloss Ambras)](https://en.wikipedia.org/wiki/Ambras_Castle) — Upea renessanssilinna, joka sisältää merkittävän taide- ja aseidenkokoelman. Erihardvinand Ferdinand II rakennutti linnan 1500-luvulla. Kuuluisa "Wunderkammer"-ihmeiden kammio ja haarniskakokoelma.
+- [Ambrasin linna (Schloss Ambras)](https://en.wikipedia.org/wiki/Ambras_Castle) — Upea renessanssilinna, joka sisältää merkittävän taide- ja aseidenkokoelman. Erihardvinand Ferdinand II rakennutti linnan 1500-luvulla. Kuuluisa "Wunderkammer"-ihmeiden kammio ja haarniskakokoelma. [Hae Googlesta](https://www.google.com/search?q=Schloss+Ambras+Innsbruck)
 
-- [Tirol Panorama ja Kaiserjäger-museo](https://www.tiroler-landesmuseen.at/en/museum/das-tirol-panorama/) — Panoraamamuseo esittelee Tirolin historiaa sekä kuuluisan 360° panoraamamaalauksen. Valtava ympyränmuotoinen maalaus kuvaa vuoden 1809 taistelua Bergiselissä.
+- [Tirol Panorama ja Kaiserjäger-museo](https://www.tiroler-landesmuseen.at/en/museum/das-tirol-panorama/) — Panoraamamuseo esittelee Tirolin historiaa sekä kuuluisan 360° panoraamamaalauksen. Valtava ympyränmuotoinen maalaus kuvaa vuoden 1809 taistelua Bergiselissä. [Hae Googlesta](https://www.google.com/search?q=Tirol+Panorama+Bergisel)
 
 ## Taide, käsityö ja kulttuuri
 
 Innsbruckissa yhdistyvät upealla tavalla vanhat alppien käsityöperinteet, keisarillinen kulttuuri ja moderni taide:
 
-*   [Tiroler Volkskunstmuseum (Tirolin kansantaiteen museo)](https://en.wikipedia.org/wiki/Tyrolean_Folk_Art_Museum) — Sijaitsee vanhassakaupungissa Hofkirchen vieressä. Museossa on yksi Euroopan merkittävimmistä kansantaiteen kokoelmista, kuten perinteisiä tirolilaisia pukuja (dirndl & lederhosen), puutöitä ja historiallisia talonpoikaistupia.
-*   [Tiroler Heimatwerk](https://www.innsbruck.info/en/shopping/local-specialities/local-handicrafts.html) — Vanhankaupungin sydämessä sijaitseva perinteisen käsityön keskus ja myymälä. Täältä löydät laadukkaita paikallisten käsityöläisten valmistamia tuotteita, kuten keramiikkaa, puutöitä, tekstiilejä ja perinteisiä vaatteita.
-*   [Swarovski Kristallwelten (Swarovski-kristallimaailmat)](https://en.wikipedia.org/wiki/Swarovski_Kristallwelten) — Noin 15 km päässä Wattensissa sijaitseva maanalainen kristallitaiteen elämysmaailma, jossa tunnetut kansainväliset taiteilijat ovat luoneet kristallista moderneja taideteoksia ja tilainstallaatioita.
-*   [Seifenmanufaktur Walde](https://www.walde.at/en/) — Itävallan vanhin saippuamanufaktuuri (perustettu 1777) Innsbruckissa. Täällä valmistetaan edelleen käsityönä perinteisiä luonnonsaippuoita ja kynttilöitä yli 240 vuoden kokemuksella.
+*   [Tiroler Volkskunstmuseum (Tirolin kansantaiteen museo)](https://en.wikipedia.org/wiki/Tyrolean_Folk_Art_Museum) — Sijaitsee vanhassakaupungissa Hofkirchen vieressä. Museossa on yksi Euroopan merkittävimmistä kansantaiteen kokoelmista, kuten perinteisiä tirolilaisia pukuja (dirndl & lederhosen), puutöitä ja historiallisia talonpoikaistupia. [Hae Googlesta](https://www.google.com/search?q=Tiroler+Volkskunstmuseum)
+*   [Tiroler Heimatwerk](https://www.innsbruck.info/en/shopping/local-specialities/local-handicrafts.html) — Vanhankaupungin sydämessä sijaitseva perinteisen käsityön keskus ja myymälä. Täältä löydät laadukkaita paikallisten käsityöläisten valmistamia tuotteita, kuten keramiikkaa, puutöitä, tekstiilejä ja perinteisiä vaatteita. [Hae Googlesta](https://www.google.com/search?q=Tiroler+Heimatwerk+Innsbruck)
+*   [Swarovski Kristallwelten (Swarovski-kristallimaailmat)](https://en.wikipedia.org/wiki/Swarovski_Kristallwelten) — Noin 15 km päässä Wattensissa sijaitseva maanalainen kristallitaiteen elämysmaailma, jossa tunnetut kansainväliset taiteilijat ovat luoneet kristallista moderneja taideteoksia ja tilainstallaatioita. [Hae Googlesta](https://www.google.com/search?q=Swarovski+Kristallwelten+Wattens)
+*   [Seifenmanufaktur Walde](https://www.walde.at/en/) — Itävallan vanhin saippuamanufaktuuri (perustettu 1777) Innsbruckissa. Täällä valmistetaan edelleen käsityönä perinteisiä luonnonsaippuoita ja kynttilöitä yli 240 vuoden kokemuksella. [Hae Googlesta](https://www.google.com/search?q=Seifenmanufaktur+Walde+Innsbruck)
 
 ## Lähistöllä olevat nähtävyydet (100 km säteellä Innsbruckista)
 
