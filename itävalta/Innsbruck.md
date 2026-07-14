@@ -38,7 +38,13 @@
 
 - [Ehrwald & Lermoos](https://www.ehrwald.at/) — **60 km** — Pienet hiihtokaupungit, joissa on perhe- ja hiihtoleirit. Pääsee Zugspitzelle, Saksassa olevalle korkeimmalle vuorelle.
 
-## Sotaan liittyvät nähtävyydet
+## Historia
+
+- [Bergisel-mäki](https://www.bergisel.info/) — **Innsbruckissa** — Paikka, jossa käytiin vuonna 1809 Tirolin kansannousun ratkaisevat taistelut Napoleonin ja Baijerin joukkoja vastaan Andreas Hoferin johdolla. Nykyään alueella on myös kuuluisa mäkihyppytorni.
+
+- [Innsbruckin keisarillinen palatsi (Hofburg)](https://www.burghauptmannschaft.at/) — **Innsbruckissa** — Rakennettu alun perin keskiajalla, myöhemmin keisarinna Maria Teresian loistokkaaksi rokokopalatsiksi uusima linna. Oli Habsburgien keisariperheen valtakeskus Alpeilla.
+
+- [Festung Kufstein (Kufsteinin linnoitus)](https://www.festung.kufstein.at/) — **75 km** — Valtava 1200-luvun linnoitus, joka oli vuosisatoja strateginen kiistakapula Baijerin ja Itävallan välillä. Keisari Maximilian I valloitti sen piirityksessä vuonna 1504.
 
 - [Kaiserjäger-museo](https://www.tiroler-landesmuseen.at/) — **Innsbruckissa** — Museo esittelee keisarillisen jägeryynnin historiaa 1. maailmansodan ajalta sekä Tirolin taisteluja.
 

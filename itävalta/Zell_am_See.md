@@ -54,9 +54,13 @@
 
 - [Badgastein (Bad Gastein)](https://www.badgastein.at/) — **60 km** — Terveydenhoidon kaupunki, johon kuuluu kuuluisa naisvä- ja terveyspalveluja.
 
-## Sotaan liittyvät nähtävyydet
+## Historia
 
-- [Kaprun-linnan 1. maailmansodan osat](https://burgkaprun.salzburg.info/) — **Kaprunissa, 10 km** — Historiallinen linna, jossa näkyy 1. maailmansodan jäljät. Strateginen sijainti.
+- [Halleinin suolakaivos (Salzwelten Salzburg)](https://www.salzwelten.at/en/hallein) — **65 km** — Yksi maailman vanhimmista suolakaivoksista, jota keltit hyödynsivät jo yli 2 500 vuotta sitten. Kaivostoiminta loi perustan koko Salzburgin alueen historialliselle vauraudelle.
+
+- [Salzburgin historiallinen keskusta (Altstadt)](https://www.salzburg.info/) — **70 km** — UNESCO:n maailmanperintökohde ja Mozartin syntymäpaikka. Alue oli vuosisatoja itsenäinen ruhtinaskunta, jota hallitsivat mahtavat arkkipiispat, kunnes se liitettiin Itävaltaan vuonna 1816.
+
+- [Kaprun-linnan historia](https://burgkaprun.salzburg.info/) — **Kaprunissa, 10 km** — Historiallinen 1200-luvun linna, joka koki merkittäviä taisteluita ja vaurioita historian aikana ja kunnostettiin myöhemmin kulttuurikohteeksi.
 
 - [Salzburg Air Raid -pommi-isku muistopaikat](https://www.salzburg.info/) — **70 km** — Salzburgin kaupungissa sijaitsevat 2. maailmansodan pommituksien muistomerkit. Dokumentoitu historia.
 

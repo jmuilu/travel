@@ -46,7 +46,13 @@
 
 - [Isar-jokiranta ja puistot](https://www.muenchen.de/) — **Münchening alueella** — Kaunis jokiranta, jota voi kävellä tai pyöräillä. Useita puistoja ja piknikpaikkoja.
 
-## Sotaan liittyvät nähtävyydet
+## Historia
+
+- [Führerbau (nykyinen Musiikkikorkeakoulu)](https://de.wikipedia.org/wiki/F%C3%BChrerbau) — **Münchenissä** — Rakennus, jossa allekirjoitettiin vuonna 1938 historiallinen Münchenin sopimus Ison-Britannian, Ranskan, Saksan ja Italian välillä. Sopimus luovutti Tšekkoslovakian sudeettialueet natsi-Saksalle.
+
+- [Feldherrnhalle ja Odeonsplatz](https://www.muenchen.de/) — **Münchenissä** — Paikka, jossa Adolf Hitlerin johtama oluttupavallankaappaus (Beer Hall Putsch) päättyi veriseen tulitaisteluun poliisin kanssa vuonna 1923. Natsien valtakaudella paikka oli puolueen tärkein pyhättö.
+
+- [Georg Elserin muistomerkki (Bürgerbräukeller)](https://www.georg-elser-arbeitskreis.de/) — **Münchenissä** — Entisen Bürgerbräukeller-oluttupa-alueen lähellä sijaitseva muistomerkki. Georg Elser teki täällä vuonna 1939 rohkean, mutta epäonnistuneen pommiattentaatin Hitleriä vastaan.
 
 - [Dachau-keskitysleirin muistopaikka ja museo](https://www.kz-gedenkstaette-dachau.de/) — **20 km** — Ensimmäinen natsien keskitysleiri, jossa kuoli tuhansia ihmisiä. Muistopaikka, museo ja dokumentaatiokeskus.
 
