@@ -62,40 +62,45 @@
 
 ## Päiväretkiehdotukset
 
-### Retki 1: Innsbruckin kaupunkikeskusta (2-3 tuntia)
-**Etäisyys:** 0-1 km kävelevä retki  
-**Kohteita:** Golden Roof (Goldenes Dachl) → Hofkirche → Stadtturm → Marienplatz  
-**Sopii:** Kaikille, helppo kävelyretki historiallisen keskustan läpi. Voit nauttia muista alueella sijaitsevista kahviloista ja liikkeistä.
+### Retki 1: Innsbruckin historiallinen keskusta (2-3 tuntia)
+**Etäisyys:** 0-1 km kävelyretki  
+**Kohteita:** Golden Roof (Goldenes Dachl) → Hofkirche → Stadtturm → Maria-Theresien-Straße  
+**Sopii:** Kaikille, helppo kävelyretki historiallisen vanhankaupungin läpi. Voit nauttia alueen kahviloista ja arkkitehtuurista.
 
-### Retki 2: Innsbruckin museot ja alueet (4-5 tuntia)
-**Etäisyys:** 1-3 km lyhyillä autoissa/busseilla  
-**Kohteita:** Ambrasin linna (Schloss Ambras) → Tirol Panorama ja Kaiserjäger-museo → Tyrolean State Museum  
-**Sopii:** Taideista ja historiasta kiinnostuneet. Hyvä yhdistelmä, voit viettää useita tunteja museoissa.
+### Retki 2: Innsbruckin museot ja kulttuuri (4-5 tuntia)
+**Etäisyys:** n. 5-7 km siirtymät bussilla/autolla  
+**Kohteita:** Ambrasin linna (Schloss Ambras) → Tirol Panorama ja Kaiserjäger-museo (Bergisel-mäellä) → Tyrolean State Museum  
+**Sopii:** Taiteesta ja historiasta kiinnostuneille. Sisältää siirtymistä kaupungin eri puolille.
 
-### Retki 3: Alppi luonto retki (6-7 tuntia)
-**Etäisyys:** 30 km molemmin puolin  
-**Kohteita:** Nordkette-vuoristo (köysirata huipulle) → lounas alpeilla → Stubaier Gletscher (jäätikkövandring)  
-**Sopii:** Luonnosta ja patikoinnista pitävät. Upeita näköaloja, mutta vaatii hyvää kuntoa.
+### Retki 3: Nordkette-vuoristo ja alppimaisemat (3-4 tuntia)
+**Etäisyys:** Lähtö suoraan keskustasta (Nordkette-köysirata)  
+**Kohteita:** Köysiradalla huipulle (Hafelekar 2256 m) → lounas alppiravintolassa → lyhyt maisemakävely huipulla  
+**Sopii:** Luonnosta ja upeista näköaloista kiinnostuneille. Ei vaadi pitkiä ajoaikoja, sillä köysirata lähtee keskustasta.
 
-### Retki 4: Zillertal laakso päiväretki (6-7 tuntia)
-**Etäisyys:** 30 km + kuljetus laakon sisällä  
-**Kohteita:** Zillertal Arena → Zillertal laakson ratsastusreitit → pieni pysähdys tai kahvila  
-**Sopii:** Urheiluista ja ulkoilusta pitävät. Kaunis laakso ja monipuoliset aktiviteetit.
+### Retki 4: Stubaier Gletscher ja alppijäätikkö (6-7 tuntia)
+**Etäisyys:** n. 40 km etelään Innsbruckista  
+**Kohteita:** Ajo Stubaital-laaksoa pitkin → köysiradalla jäätikölle (3210 m) → jäätikkökävely ja jääluola  
+**Sopii:** Korkeista vuorista ja lumisista alppimaisemista kiinnostuneille. Vaatii autokyydin tai bussimatkan.
 
-### Retki 5: Hall in Tirol + Igls historiallinen retki (5-6 tuntia)
-**Etäisyys:** 10-15 km kumpainen  
-**Kohteita:** Hall in Tirol keskusta (suola-historia) → Igls olympialaiset paikat ja kunta  
-**Sopii:** Historiasta kiinnostuneet. Kompakti retki ilman pitkää ajoa, mukava kylät.
+### Retki 5: Zillertal-laakso ja aktiviteetit (6-7 tuntia)
+**Etäisyys:** n. 45 km itään Innsbruckista  
+**Kohteita:** Zillertal Arena → kävely tai pyöräily laaksossa → vierailu alppikylässä  
+**Sopii:** Ulkoilusta ja kauniista laaksonäkymistä nauttiville.
 
-### Retki 6: Ötztal ja 1. maailmansodan kohteita (7-8 tuntia)
-**Etäisyys:** 50 km ja Forte Pré linnoitukset 40-50 km  
-**Kohteita:** Ötztal laakso → Forte Pré ja 1. maailmansodan puolustuslinnjat → Ötztal patikointi  
-**Sopii:** Historiasta ja luonnosta kiinnostuneet. Mahtava yhdistelmä historiaa ja alppimaisia maisemia.
+### Retki 6: Hall in Tirol + Igls historiallinen retki (4-5 tuntia)
+**Etäisyys:** n. 10-15 km Innsbruckista  
+**Kohteita:** Hall in Tirolin keskiaikainen vanhakaupunki → Iglsin olympiamaisemat ja kylä  
+**Sopii:** Historiasta kiinnostuneille. Kompakti retki lähellä Innsbruckia ilman pitkää matkustamista.
 
-### Retki 7: Compact retki 30 km sisällä (4-5 tuntia)
-**Etäisyys:** 30 km molemmin puolin  
-**Kohteita:** Innsbruckin keskusta (Golden Roof, Hofkirche) → Ambrasin linna → lounas  
-**Sopii:** Haluavat nähdä eniten minimaalilla ajalla. Hyvä yhdistelmä kaupunkia ja historiallista linnaa.
+### Retki 7: Ötztalin alppilaakso ja Stuibenfall-vesiputous (7-8 tuntia)
+**Etäisyys:** n. 50 km länteen Innsbruckista  
+**Kohteita:** Ötztal-laakso → patikointi Stuibenfall-vesiputoukselle (Tirolin korkein vesiputous) → vierailu Ötzi-kylän ulkoilmamuseossa  
+**Sopii:** Luonnonystäville ja historiasta kiinnostuneille. Upea ja realistinen kokopäiväretki.
+
+### Retki 8: Kompakti yhdistelmäretki (4-5 tuntia)
+**Etäisyys:** n. 5 km säteellä  
+**Kohteita:** Innsbruckin keskusta (Golden Roof, Hofkirche) → siirtyminen Ambrasin linnaan → lounas  
+**Sopii:** Matkailijoille, jotka haluavat nähdä tärkeimmät kaupunkikohteet lyhyessä ajassa.
 
 ---
 *Created by Antigravity*

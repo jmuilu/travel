@@ -97,30 +97,30 @@
 **Kohteita:** BMW-museo ja BMW Welt → Olympiapuisto (1972 olympialaiset) → moderni arkkitehtuuri  
 **Sopii:** Tekniikasta ja modernista suunnittelusta kiinnostuneet. Futuristinen ja kiehtova päivä.
 
-### Retki 6: Ulkoalueiden kuninkaalaiset linnat (6-7 tuntia)
-**Etäisyys:** 20-25 km  
-**Kohteita:** Schleissheim-linnat (kolme linna) → Grünwald-linna → lounas historiallisella alueella  
-**Sopii:** Historiasta kiinnostuneet, jotka haluavat poistua kaupungin keskustasta. Upeat kuninkaalaiset rakennukset.
+### Retki 6: Schleissheimin linnat ja ilmailumuseo (5-6 tuntia)
+**Etäisyys:** n. 20 km pohjoiseen Münchenistä  
+**Kohteita:** Schleissheimin barokkipalatsit (kolmen linnan kompleksi) → Flugwerft Schleissheim (Deutsches Museumin ilmailuosasto vanhalla lentokentällä) → lounas linnanpuistossa  
+**Sopii:** Historiasta, arkkitehtuurista ja tekniikasta kiinnostuneille. Kaikki kohteet sijaitsevat samalla alueella.
 
-### Retki 7: Baijerin satujen linnat - pitkä päiväretki (10-12 tuntia)
-**Etäisyys:** 90 km molemmin puolin  
-**Kohteita:** Neuschwanstein-linna → Hohenschwangau-linna → Linderhof-palatsi → patikointi Graswangtalia  
-**Sopii:** Seikkailunhaluiset, joilla on pitkä päivä. Legendaariset linnat ja kaunis alppialue. Hyvin kulutettu retki.
+### Retki 7: Baijerin satulinnat - pitkä päiväretki (10-12 tuntia)
+**Etäisyys:** n. 100-120 km suuntaansa Münchenistä  
+**Kohteita:** Neuschwanstein-linna → Hohenschwangau-linna → Linderhofin palatsi  
+**Sopii:** Matkailijoille, joilla on koko päivä käytettävissä. Legendaariset linnat ja kauniit alppimaisemat (vaatii ennakkovaraukset ja auton).
 
 ### Retki 8: Dachau keskitysleirin historiallinen retki (4-5 tuntia)
-**Etäisyys:** 20 km  
-**Kohteita:** Dachau-keskitysleirin muistopaikka ja museo → dokumentaatiokeskus → ja kunnioittava vaeltelu  
-**Sopii:** Historiasta ja inhimillisestä tragedioista kiinnostuneet. Arkainen ja merkittävä historiallinen paikka.
+**Etäisyys:** n. 20 km Münchenistä  
+**Kohteita:** Dachau-keskitysleirin muistopaikka ja museo → dokumentaatiokeskus  
+**Sopii:** Historiasta ja toisen maailmansodan tapahtumista kiinnostuneille. Puhutteleva ja historiallisesti merkittävä kohde.
 
-### Retki 9: Freising historiallinen kaupunki (4-5 tuntia)
-**Etäisyys:** 30 km  
-**Kohteita:** Freising-katedraali → historiallinen kaupunkikeskusta → Fürstenfeldbruck-luostari → lounas historiallisella alueella  
-**Sopii:** Historiasta ja kirkkotyylisestä arkkitehtuurista kiinnostuneet. Barokkinen yhdistelmä.
+### Retki 9: Freisingin historiallinen kaupunki ja Weihenstephan (4-5 tuntia)
+**Etäisyys:** n. 40 km pohjoiseen Münchenistä  
+**Kohteita:** Freisingin katedraali → historiallinen keskusta → Weihenstephan (maailman vanhin toiminnassa oleva panimo ja sen puutarhat)  
+**Sopii:** Historiasta ja kauniista vanhoista kaupungeista kiinnostuneille ilman pitkiä ajomatkoja.
 
-### Retki 10: Compact retki 2-3 km sisällä (3-4 tuntia)
+### Retki 10: Kompakti kaupunkikävely (3-4 tuntia)
 **Etäisyys:** 0-3 km kävelyetäisyys  
-**Kohteita:** Marienplatz → Neues Rathaus → Marienkirche → lounas → Englischer Garten  
-**Sopii:** Haluavat nähdä eniten ilman autoa. Kompakti retki kaupungin parhaille nähtävyyksille.
+**Kohteita:** Marienplatz → Neues Rathaus → Frauenkirche → kävely Englischer Garteniin  
+**Sopii:** Matkailijoille, jotka haluavat nähdä Münchenin ytimen kävellen ilman julkisia tai autoa.
 
 ---
 *Created by Antigravity*

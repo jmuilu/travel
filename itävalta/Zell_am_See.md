@@ -120,20 +120,20 @@
 **Kohteita:** Hallein suolakaivokset → historiallinen kaupunkikeskusta → Salzach-joki rannat → lounas  
 **Sopii:** Historiasta ja tekniikasta kiinnostuneet. Uniikki suolakaivoskokemus.
 
-### Retki 8: Kitzbühel hiihtokeskus ja kaunis kaupunki (6-7 tuntia)
-**Etäisyys:** 80 km  
-**Kohteita:** Kitzbühel kaupunkikeskusta → Hahnenkamm-vuori (The Hahnenkamm kilpailu paikka) → patikointi ja näköalat → lounas  
-**Sopii:** Hiihtokaupungin historiasta ja urheilusta kiinnostuneet. Kuuluisa kaupunki.
+### Retki 8: Kitzbühelin hiihtokaupunki ja Hahnenkamm (6-7 tuntia)
+**Etäisyys:** n. 50 km Zell am Seestä  
+**Kohteita:** Kitzbühelin historiallinen keskusta → Hahnenkamm-vuori (legendaarinen syöksylaskurinne) → maisemakävely vuorella  
+**Sopii:** Urheiluhistoriasta ja alppitunnelmasta kiinnostuneille.
 
-### Retki 9: Kompakti retki järven ympärillä (3-4 tuntia)
-**Etäisyys:** 0-5 km  
-**Kohteita:** Zeller See -järvi kävelyreitti → Schmittenhöhe näkymät → kaupunkikeskusta → lounas  
-**Sopii:** Haluavat nähdä eniten minimaalilla ajalla. Rentouttava ja kaunis.
+### Retki 9: Zeller See -järvikävely (2-3 tuntia)
+**Etäisyys:** 0-5 km kävelyä (järven etelä/pohjoisrannat)  
+**Kohteita:** Kävely rantabulevardia pitkin → veneajelu järvellä → lounas järvinäkymällä  
+**Sopii:** Rentouttavaksi ja kevyeksi puolipäiväohjelmaksi ilman matkustelua.
 
-### Retki 10: Kaprun jäätikkö ja pato yhdistelmä (5-6 tuntia)
-**Etäisyys:** 10-20 km  
-**Kohteita:** Kitzsteinhorn jäätikkö lyhyt käynti → Kaprun Staudamm -pato → Kaprun-linna näkymät → lounas  
-**Sopii:** Luonnosta ja teknisistä saavutuksista kiinnostuneet. Upea yhdistelmä.
+### Retki 10: Kaprunin vuoristopadot ja Sigmund-Thun-Klamm (6-7 tuntia)
+**Etäisyys:** n. 15 km Zell am Seestä  
+**Kohteita:** Kuljetus ylös Mooserbodenin ja Wasserfallbodenin suurpadoille (2000+ metriin) → vierailu Sigmund-Thun-vesiputousrotkossa  
+**Sopii:** Luonnosta ja huikeista insinööritöistä kiinnostuneille. Realistinen ja upea kokopäiväohjelma.
 
 ---
 *Created by Antigravity*
