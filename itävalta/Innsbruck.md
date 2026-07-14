@@ -6,7 +6,7 @@
 
 - [Nordkette-vuoristo](https://en.wikipedia.org/wiki/Nordkette) — Köysirata vie suoraan kaupungista Alppien huipulle 2256 metriin. Näköalat ovat huikeat ja sopivat sekä retkeilijöille että maisemista nauttiville. Zaha Hadid suunnitteli modernit köysirata-asemat.
 
-- [Stadtturm](https://en.wikipedia.org/wiki/Stadtturm_(Innsbruck)) — Keskiaikainen kaupungintorni, josta avautuvat upeat näkymät Innsbruckin vanhaan kaupunkiin.
+- [Stadtturm](https://www.innsbruck.info/en/destinations/sights/stadtturm.html) — Keskiaikainen kaupungintorni, josta avautuvat upeat näkymät Innsbruckin vanhaan kaupunkiin.
 
 - [Hofkirche](https://en.wikipedia.org/wiki/Hofkirche,_Innsbruck) — Keisari Maximilian I:n hautakirkko, jossa on vaikuttavat pronssipatsaat ja historiallinen tunnelma.
 
