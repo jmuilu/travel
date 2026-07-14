@@ -6,9 +6,9 @@
 
 - [Schloss Nymphenburg](https://fi.wikipedia.org/wiki/Nymphenburgin_linna) — Barokkityylinen kuninkaalaten kesäpalatsi, jossa on kaunis puisto ja useita sivurakennuksia. Huipputarkoituksellinen 18. vuosisadalta.
 
-- [Marienkirche (Frauenkirche)](https://en.wikipedia.org/wiki/Frauenkirche,_Munich) — Münchenin kuuluisa goottilainen katedraali, jossa on kaksi kuuluisaa tornia. Rakennettu 1468-1494. Tornit ovat 99 metriä korkeat ja niistä on upeat näköalat yli Münchenin ja Alpeille.
+- [Marienkirche (Frauenkirche)](https://fi.wikipedia.org/wiki/Frauenkirche_(M%C3%BCnchen)) — Münchenin kuuluisa goottilainen katedraali, jossa on kaksi kuuluisaa tornia. Rakennettu 1468-1494. Tornit ovat 99 metriä korkeat ja niistä on upeat näköalat yli Münchenin ja Alpeille.
 
-- [Englischer Garten](https://en.wikipedia.org/wiki/English_Garden) — Yksi maailman suurimmista kaupunkipuistoista (417 hehtaaria), jossa on ratsastusreittejä, jokirantaa ja kahviloita. Tunnettu Eisbach-joen surffaajista ja Kiinan tornista (Chinesischer Turm).
+- [Englischer Garten](https://fi.wikipedia.org/wiki/Englischer_Garten) — Yksi maailman suurimmista kaupunkipuistoista (417 hehtaaria), jossa on ratsastusreittejä, jokirantaa ja kahviloita. Tunnettu Eisbach-joen surffaajista ja Kiinan tornista (Chinesischer Turm).
 
 - [BMW-museo ja BMW Welt](https://fi.wikipedia.org/wiki/BMW-museo) — Automuseo ja näyttely, joka esittelee BMW:n historiaa ja tulevaisuutta. Modernit näyttelyt ja interaktiiviset kokemukset. BMW Welt on vaikuttava arkkitehtoninen rakennus.
 
@@ -26,9 +26,9 @@
 
 ## Lähistöllä olevat nähtävyydet (100 km säteellä Münchenstä)
 
-- [Schleissheim-linnat](https://en.wikipedia.org/wiki/Schleissheim_Palace) — **20 km** — Kolme kuninkaalata linnaa: Uusi linna (barokkipalatsi), Vanha linna ja Lustheim-palatsi. Upeita puistoja ja rakennuksia.
+- [Schleissheim-linnat](https://fi.wikipedia.org/wiki/Schleissheimin_linna) — **20 km** — Kolme kuninkaalata linnaa: Uusi linna (barokkipalatsi), Vanha linna ja Lustheim-palatsi. Upeita puistoja ja rakennuksia.
 
-- [Dachau](https://en.wikipedia.org/wiki/Dachau) — **20 km** — Historiallinen ja surullinen paikka, jossa sijaitsee Dachau-keskitysleirin muistopaikka ja museo (katso sotaa liittyvät nähtävyydet).
+- [Dachau](https://fi.wikipedia.org/wiki/Dachau) — **20 km** — Historiallinen ja surullinen paikka, jossa sijaitsee Dachau-keskitysleirin muistopaikka ja museo (katso sotaa liittyvät nähtävyydet).
 
 - [Freising-katedraali](https://en.wikipedia.org/wiki/Freising_Cathedral) — **30 km** — Barokkityylinen katedraali ja piispan paikka, kaunis sisustus ja ympäristö.
 
@@ -66,7 +66,7 @@
 
 - [Marienplatz ja Neues Rathaus](https://fi.wikipedia.org/wiki/Marienplatz) — **Münchingissä** — Näyttämö merkittäville natsitapahtumille ja mielenosoituksille. Kaunis rakennus, jolla on monimutkainen historia.
 
-- [1. maailmansodan muistomerkit ja hautausmaat](https://en.wikipedia.org/wiki/War_grave) — **Municin lähialueella** — Useita sotilashautausmaia ja muistomerkkejä 1. maailmansodan veteraaneille.
+- [1. maailmansodan muistomerkit ja hautausmaat](https://fi.wikipedia.org/wiki/Sotilashautausmaa) — **Municin lähialueella** — Useita sotilashautausmaia ja muistomerkkejä 1. maailmansodan veteraaneille.
 
 - [Flossenbürg-keskitysleirin paikka](https://fi.wikipedia.org/wiki/Flossenb%C3%BCrgin_keskitysleiri) — **150 km** — Erityinen keskitysleiri, jotka sijaitsee Tšekissa sekä Baijeriassa. Kuoli tuhansia ihmisiä. Museo ja muistopaikka.
 

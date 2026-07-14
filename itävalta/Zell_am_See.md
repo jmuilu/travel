@@ -20,17 +20,17 @@
 
 - [Edelweissspitz ja Pasterzen jäätikkö](https://fi.wikipedia.org/wiki/Pasterze) — **80 km** — Näköalapaikka, josta näkymät Itävallan suurimmalle Pasterzen jäätikkölle. Mahtavat näköalat.
 
-- [Gerlos Alpine Road](https://en.wikipedia.org/wiki/Gerlos_Pass) — **Lähellä Zell am Seesta** — Panoraamatie, joka yhdistää Zillertalin Ötztaliin. Korkea alppirata, 2000m+ näköalojen kanssa.
+- [Gerlos Alpine Road](https://fi.wikipedia.org/wiki/Gerlos-solatie) — **Lähellä Zell am Seesta** — Panoraamatie, joka yhdistää Zillertalin Ötztaliin. Korkea alppirata, 2000m+ näköalojen kanssa.
 
 ## Museot
 
 - [Vogtturm (Vogt-torni)](https://www.zellamsee-kaprun.com/en/activities-shops/activities/museum-vogtturm) — Historiallinen torni 13. vuosisadalta, jossa on näyttelyitä kaupungin historiasta.
 
-- [Pfarrkirche (Pyhän Hippolytuksen kirkko)](https://en.wikipedia.org/wiki/Zell_am_See) — Barokkityylinen kirkko, joka rakennettiin 1200-luvulla. Kaunis sisustus ja historiallinen merkitys.
+- [Pfarrkirche (Pyhän Hippolytuksen kirkko)](https://www.zellamsee-kaprun.com/en/activities-shops/activities/st-hippolyte-church) — Rakennettu 1200-luvulla, kirkossa on kaunis sisustus ja historiallisementi arvokkaita yksityiskohtia.
 
 - [Salzburg-museo](https://fi.wikipedia.org/wiki/Salzburgin_museo) — Salzburgin aluehistoriaa esittelevä museo, joka sijaitsee lähellä Zell am Seestä.
 
-- [Hohe Tauern kansallispuiston näyttelykeskus](https://en.wikipedia.org/wiki/Hohe_Tauern) — Näyttelykeskus, joka esittelee Hohe Tauern kansallispuiston luontoa ja historiaa. Interaktiiviset näyttelyt ja tietoa alppiluonnosta.
+- [Hohe Tauern kansallispuiston näyttelykeskus](https://fi.wikipedia.org/wiki/Korkea-Tauern) — Näyttelykeskus, joka esittelee Hohe Tauern kansallispuiston luontoa ja historiaa. Interaktiiviset näyttelyt ja tietoa alppiluonnosta.
 
 ## Lähistöllä olevat nähtävyydet (100 km säteellä Zell am Seesta)
 
@@ -38,19 +38,19 @@
 
 - [Hohe Tauern kansallispuisto](https://fi.wikipedia.org/wiki/Hohe_Tauern) — **30-50 km** — Itävallan suurin kansallispuisto (1856 km²), johon kuuluvat upeat vuoret ja patikoinnit. Koskivesi ja rehevä luonto. Yli 300 huippua yli 3000 metrin korkeudella.
 
-- [Kaprun Staudamm -pato](https://en.wikipedia.org/wiki/Kaprun_hydroelectric_power_station) — **10 km** — Mahtava patorakennelma Alpeilla. Vesivoimalaitoksen mahtavuus. Rakennettiin 1938-1955, yksi Itävallan suurimmista insinöörisaavutuksista.
+- [Kaprun Staudamm -pato](https://fi.wikipedia.org/wiki/Kaprunin_vesivoimalaitos) — **10 km** — Mahtava patorakennelma Alpeilla. Vesivoimalaitoksen mahtavuus. Rakennettiin 1938-1955, yksi Itävallan suurimmista insinöörisaavutuksista.
 
 - [Kitzsteinhorn](https://fi.wikipedia.org/wiki/Kitzsteinhorn) — **20 km** — Vuori jäätikön kanssa, korkea vuori jöätikkö viistä ja retkeilyä.
 
 - [Hallein - alas kaupunki](https://fi.wikipedia.org/wiki/Hallein) — **50 km** — Salzburgin naapurikaupunki, johon kuuluu suolakaivokset ja historiallinen kaupunkikeskusta.
 
-- [Saalfelden-Leogang hiihtokeskus](https://en.wikipedia.org/wiki/Saalfelden) — **60 km** — Suuri hiihtokeskus, jossa on monet paikat ja patikointi.
+- [Saalfelden-Leogang hiihtokeskus](https://fi.wikipedia.org/wiki/Saalfelden) — **60 km** — Suuri hiihtokeskus, jossa on monet paikat ja patikointi.
 
-- [Kitzbühel](https://en.wikipedia.org/wiki/Kitzb%C3%BChel) — **80 km** — Kuuluisa hiihtokaupunki, jossa on The Hahnenkamm -kilpailu. Kaunis kaupunki ja hyvät hiihtomahdollisuudet.
+- [Kitzbühel](https://fi.wikipedia.org/wiki/Kitzb%C3%BChel) — **80 km** — Kuuluisa hiihtokaupunki, jossa on The Hahnenkamm -kilpailu. Kaunis kaupunki ja hyvät hiihtomahdollisuudet.
 
 - [Ötztal](https://fi.wikipedia.org/wiki/%C3%96tztal) — **100 km** — Pitkä alppijärvi laakso, joka tarjoaa upeita retkipaikkoja. Monenlaisia aktiviteetteja.
 
-- [Fügen-Spieljoch](https://en.wikipedia.org/wiki/F%C3%BCgen) — **80 km** — Pieni hiihtoalue, jossa on kaunis maisema.
+- [Fügen-Spieljoch](https://fi.wikipedia.org/wiki/F%C3%BCgen) — **80 km** — Pieni hiihtoalue, jossa on kaunis maisema.
 
 - [Badgastein (Bad Gastein)](https://fi.wikipedia.org/wiki/Bad_Gastein) — **60 km** — Terveydenhoidon kaupunki, johon kuuluu kuuluisa naisvä- ja terveyspalveluja.
 

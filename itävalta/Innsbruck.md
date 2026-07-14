@@ -2,13 +2,13 @@
 
 ## Nähtävyydet
 
-- [Golden Roof (Goldenes Dachl)](https://en.wikipedia.org/wiki/Golden_Roof) — Innsbruckin tunnetuin maamerkki, keskiaikainen rakennus, jonka upea kullattu katto on kaupungin symboli. Rakennettu 1500 keisari Maximilian I:n kunniaksi. 2657 kullatulla kuparitiilellä katettu parveke.
+- [Golden Roof (Goldenes Dachl)](https://fi.wikipedia.org/wiki/Goldenes_Dachl) — Innsbruckin tunnetuin maamerkki, keskiaikainen rakennus, jonka upea kullattu katto on kaupungin symboli. Rakennettu 1500 keisari Maximilian I:n kunniaksi. 2657 kullatulla kuparitiilellä katettu parveke.
 
 - [Nordkette-vuoristo](https://en.wikipedia.org/wiki/Nordkette) — Köysirata vie suoraan kaupungista Alppien huipulle 2256 metriin. Näköalat ovat huikeat ja sopivat sekä retkeilijöille että maisemista nauttiville. Zaha Hadid suunnitteli modernit köysirata-asemat.
 
 - [Stadtturm](https://en.wikipedia.org/wiki/City_Tower_(Innsbruck)) — Keskiaikainen kaupungintorni, josta avautuvat upeat näkymät Innsbruckin vanhaan kaupunkiin.
 
-- [Hofkirche](https://en.wikipedia.org/wiki/Hofkirche,_Innsbruck) — Keisari Maximilian I:n hautakirkko, jossa on vaikuttavat pronssipatsaat ja historiallinen tunnelma.
+- [Hofkirche](https://fi.wikipedia.org/wiki/Hofkirche_(Innsbruck)) — Keisari Maximilian I:n hautakirkko, jossa on vaikuttavat pronssipatsaat ja historiallinen tunnelma.
 
 ## Museot
 
@@ -44,13 +44,13 @@
 
 - [Innsbruckin keisarillinen palatsi (Hofburg)](https://en.wikipedia.org/wiki/Hofburg,_Innsbruck) — **Innsbruckissa** — Rakennettu alun perin keskiajalla, myöhemmin keisarinna Maria Teresian loistokkaaksi rokokopalatsiksi uusima linna. Oli Habsburgien keisariperheen valtakeskus Alpeilla.
 
-- [Festung Kufstein (Kufsteinin linnoitus)](https://en.wikipedia.org/wiki/Kufstein_Fortress) — **75 km** — Valtava 1200-luvun linnoitus, joka oli vuosisatoja strateginen kiistakapula Baijerin ja Itävallan välillä. Keisari Maximilian I valloitti sen piirityksessä vuonna 1504.
+- [Festung Kufstein (Kufsteinin linnoitus)](https://fi.wikipedia.org/wiki/Kufsteinin_linnoitus) — **75 km** — Valtava 1200-luvun linnoitus, joka oli vuosisatoja strateginen kiistakapula Baijerin ja Itävallan välillä. Keisari Maximilian I valloitti sen piirityksessä vuonna 1504.
 
 - [Kaiserjäger-museo](https://en.wikipedia.org/wiki/Tirol_Panorama_Museum) — **Innsbruckissa** — Museo esittelee keisarillisen jägeryynnin historiaa 1. maailmansodan ajalta sekä Tirolin taisteluja.
 
 - [Tirol Panorama](https://en.wikipedia.org/wiki/Tirol_Panorama_Museum) — **Innsbruckissa** — Valtava 360° panoraamamaalaaus, joka kuvaa Tirolin 1809 vapaaottelua Napoleonia vastaan. Historiallinen monumentti.
 
-- [Forte Pré ja 1. maailmansodan linnoitukset](https://en.wikipedia.org/wiki/Italian_front_(World_War_I)) — **40-50 km** — Ötztalin ja Stubaitalin alueella sijaitsee useita 1. maailmansodan puolustuslinjojen jäänteitä ja linnoituksia.
+- [Forte Pré ja 1. maailmansodan linnoitukset](https://fi.wikipedia.org/wiki/Italian_rintama_(ensimmäinen_maailmansota)) — **40-50 km** — Ötztalin ja Stubaitalin alueella sijaitsee useita 1. maailmansodan puolustuslinjojen jäänteitä ja linnoituksia.
 
 - [Forte Corbin](https://www.forte-corbin.it/) — **50 km** — Avoin nähtäväksi saksalainen 1. maailmansodan linnoitus Zillertalissa, jossa näkyy alkuperäinen militaarinen rakentaminen.
 
