@@ -135,5 +135,47 @@ Erityisesti kesäkaudella ja heinäkuun lopussa (22.7.–28.7.2026) Zell am Sees
 **Kohteita:** Kuljetus ylös Mooserbodenin ja Wasserfallbodenin suurpadoille (2000+ metriin) → vierailu Sigmund-Thun-vesiputousrotkossa  
 **Sopii:** Luonnosta ja huikeista insinööritöistä kiinnostuneille. Realistinen ja upea kokopäiväohjelma.
 
+## Kartta kohteista ja retkistä
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<div id="zell-map" style="height: 450px; border-radius: 12px; margin: 20px 0; border: 1px solid #ddd; box-shadow: 0 4px 12px rgba(0,0,0,0.1); z-index: 1;"></div>
+<script>
+(function initMap() {
+  if (typeof L === 'undefined') {
+    setTimeout(initMap, 50);
+    return;
+  }
+  var map = L.map('zell-map').setView([47.3235, 12.7968], 9);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+  }).addTo(map);
+
+  var markers = [
+    { name: "Zell am See", coords: [47.3235, 12.7968], desc: "Keskusta, Zeller See -järvi, Vogtturm, Hippolyt-kirkko." },
+    { name: "Schmittenhöhe", coords: [47.329, 12.738], desc: "Näköalavuori Zell am Seen yllä." },
+    { name: "Kaprunin linna", coords: [47.273, 12.762], desc: "Keskiaikainen linna (10 km)." },
+    { name: "Kitzsteinhorn", coords: [47.202, 12.686], desc: "Jäätikkö ja Gipfelwelt 3000 (20 km)." },
+    { name: "Kaprunin vuoristopadot (Mooserboden)", coords: [47.168, 12.723], desc: "Suurpatorakennelmat (15 km)." },
+    { name: "Hohenwerfenin linna", coords: [47.4827, 13.1894], desc: "Historiallinen linna ja haukkanäytökset (50 km)." },
+    { name: "Eisriesenwelt", coords: [47.5028, 13.1897], desc: "Maailman suurin jääluola (70 km)." },
+    { name: "Grossglocknerin alppitie", coords: [47.083, 12.842], desc: "Panoraamatie ja alppimaisemat (80 km)." },
+    { name: "Gerlos-solatie", coords: [47.241, 12.115], desc: "Upea panoraamatie Zillertaliin." },
+    { name: "Salzburgin vanhakaupunki", coords: [47.8095, 13.0550], desc: "UNESCO-maailmanperintökohde (70 km)." },
+    { name: "Halleinin suolakaivos", coords: [47.667, 13.083], desc: "Historiallinen suolakaivos (65 km)." },
+    { name: "Saalfelden", coords: [47.4264, 12.8481], desc: "Saalfelden-Leogang-hiihto- ja vaellusalue (60 km)." },
+    { name: "Kitzbühel", coords: [47.4464, 12.3917], desc: "Kuuluisan Hahnenkamm-syöksylaskun kaupunki (80 km)." },
+    { name: "Ötztal", coords: [47.2343, 10.9856], desc: "Ötztalin alppilaakso (100 km)." },
+    { name: "Fügen", coords: [47.3458, 11.8494], desc: "Fügen-Spieljoch alppialue (80 km)." },
+    { name: "Bad Gastein", coords: [47.1156, 13.1364], desc: "Kylpyläkaupunki ja vesiputous (60 km)." }
+  ];
+
+  markers.forEach(function(m) {
+    var marker = L.marker(m.coords).addTo(map);
+    marker.bindPopup('<b>' + m.name + '</b><br>' + m.desc);
+  });
+})();
+</script>
+
 ---
 *Created by Antigravity*

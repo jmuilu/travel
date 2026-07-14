@@ -111,6 +111,42 @@ Erityisesti kesäkaudella ja heinäkuun lopussa (22.7.–28.7.2026) Innsbruckiss
 **Kohteita:** Innsbruckin keskusta (Golden Roof, Hofkirche) → siirtyminen Ambrasin linnaan → lounas  
 **Sopii:** Matkailijoille, jotka haluavat nähdä tärkeimmät kaupunkikohteet lyhyessä ajassa.
 
+## Kartta kohteista ja retkistä
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<div id="innsbruck-map" style="height: 450px; border-radius: 12px; margin: 20px 0; border: 1px solid #ddd; box-shadow: 0 4px 12px rgba(0,0,0,0.1); z-index: 1;"></div>
+<script>
+(function initMap() {
+  if (typeof L === 'undefined') {
+    setTimeout(initMap, 50);
+    return;
+  }
+  var map = L.map('innsbruck-map').setView([47.2692, 11.4041], 9);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+  }).addTo(map);
+
+  var markers = [
+    { name: "Innsbruck (Keskusta)", coords: [47.2692, 11.4041], desc: "Kultainen katto (Goldenes Dachl), Hofkirche, Stadtturm." },
+    { name: "Schloss Ambras", coords: [47.2636, 11.4319], desc: "Renessanssilinna ja taidekokoelmat." },
+    { name: "Bergisel", coords: [47.2485, 11.3995], desc: "Bergiselin hyppyrimäki ja Tirol Panorama -museo." },
+    { name: "Hall in Tirol", coords: [47.2804, 11.5076], desc: "Keskiaikainen suolakaupunki (10 km)." },
+    { name: "Seefeld in Tirol", coords: [47.3294, 11.1873], desc: "Alppikylä ja ulkoilualue (40 km)." },
+    { name: "Stubaier Gletscher", coords: [46.9858, 11.1118], desc: "Stubai-jäätikkö ja hiihtoalue (30 km)." },
+    { name: "Festung Kufstein", coords: [47.5833, 12.1667], desc: "Kufsteinin linnoitus (75 km)." },
+    { name: "Mittenwald", coords: [47.4422, 11.2642], desc: "Kaunis baijerilainen viulunrakentajakylä Saksassa (40 km)." },
+    { name: "Ötztal-laakso", coords: [47.2343, 10.9856], desc: "Ötztalin alppilaakso (50 km)." },
+    { name: "Lienz (Schloss Bruck)", coords: [46.8317, 12.7533], desc: "Lienzin museo ja Bruckin linna (70 km)." }
+  ];
+
+  markers.forEach(function(m) {
+    var marker = L.marker(m.coords).addTo(map);
+    marker.bindPopup('<b>' + m.name + '</b><br>' + m.desc);
+  });
+})();
+</script>
+
 ---
 *Created by Antigravity*
 
