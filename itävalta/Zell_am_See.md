@@ -32,6 +32,15 @@
 
 - [Hohe Tauern kansallispuiston näyttelykeskus](https://fi.wikipedia.org/wiki/Hohe_Tauern) — Näyttelykeskus, joka esittelee Hohe Tauern kansallispuiston luontoa ja historiaa. Interaktiiviset näyttelyt ja tietoa alppiluonnosta.
 
+## Taide, käsityö ja kulttuuri
+
+Zell am Seen ja Kaprunin alue tarjoaa upeita luonnon ja kulttuurin yhdistelmiä, perinteistä käsityötä sekä ainutlaatuisia näyttelyitä:
+
+*   [Art on the Mountain (Schmittenhöhe)](https://www.zellamsee-kaprun.com/en/activities-shops/activities/art-on-the-mountain) — Euroopan korkeimmalla sijaitseva ulkoilmataidenäyttely Schmittenhöhe-vuorella. Retkeilyreittien varrelle on sijoitettu yli 20 suuren koon puu-, kivi- ja keramiikkaveistosta kansainvälisiltä taiteilijoilta.
+*   [Museum Vogtturm](https://de.wikipedia.org/wiki/Vogtturm_(Zell_am_See)) — Zell am Seen vanhimmassa rakennuksessa, keskiaikaisessa tornissa, sijaitseva museo esittelee alueen historiaa, taidetta ja paikallista käsityötä (kuten historiallista pukeutumista ja Porsche Design -näyttelyitä).
+*   [Kaprun Museum](https://www.zellamsee-kaprun.com/en/activities-shops/activities/kaprun-museum) — Kaprunin keskustassa vanhassa alppitalossa sijaitseva museo, joka kertoo alueen 4000-vuotisesta historiasta, alppiviljelykulttuurista sekä suurpatojen ja köysiratojen rakentamisen historiasta.
+*   [Vötter's Vehicle Museum (Vötterin automuseo)](http://www.oldtimer-museum.at) — Kaprunissa sijaitseva suosittu yksityinen museo, jossa on nähtävillä noin 200 klassikkoautoa, moottoripyörää ja toisen maailmansodan jälkeistä ajoneuvoa 1950–1970-luvuilta.
+
 ## Lähistöllä olevat nähtävyydet (100 km säteellä Zell am Seesta)
 
 - [Salzburg kaupunki](https://fi.wikipedia.org/wiki/Salzburg) — **70 km** — Salzburgin historian keskusta, Mozartin syntymäpaikka. Kaunis barokki arkkitehtuuri ja historiallinen ilmapiiri.
@@ -153,9 +162,11 @@ Erityisesti kesäkaudella ja heinäkuun lopussa (22.7.–28.7.2026) Zell am Sees
 
   var markers = [
     { name: "Zell am See", coords: [47.3235, 12.7968], desc: "Keskusta, Zeller See -järvi, Vogtturm, Hippolyt-kirkko." },
-    { name: "Schmittenhöhe", coords: [47.329, 12.738], desc: "Näköalavuori Zell am Seen yllä." },
+    { name: "Schmittenhöhe", coords: [47.329, 12.738], desc: "Näköalavuori Zell am Seen yllä & Art on the Mountain -ulkoilmataidenäyttely." },
     { name: "Kaprunin linna", coords: [47.273, 12.762], desc: "Keskiaikainen linna (10 km)." },
     { name: "Kitzsteinhorn", coords: [47.202, 12.686], desc: "Jäätikkö ja Gipfelwelt 3000 (20 km)." },
+    { name: "Kaprun Museum", coords: [47.2725, 12.7592], desc: "[Museo] Kaprunin paikallishistoriaa ja alppikulttuuria (10 km)." },
+    { name: "Vötter's Vehicle Museum", coords: [47.2743, 12.7663], desc: "[Museo] Vötterin automuseo – klassikkoajoneuvoja (10 km)." },
     { name: "Kaprunin vuoristopadot (Mooserboden)", coords: [47.168, 12.723], desc: "Suurpatorakennelmat (15 km)." },
     { name: "Hohenwerfenin linna", coords: [47.4827, 13.1894], desc: "Historiallinen linna ja haukkanäytökset (50 km)." },
     { name: "Eisriesenwelt", coords: [47.5028, 13.1897], desc: "Maailman suurin jääluola (70 km)." },

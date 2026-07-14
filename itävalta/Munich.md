@@ -24,6 +24,16 @@
 
 - [Haus der Kunst](https://fi.wikipedia.org/wiki/Haus_der_Kunst) — Modernin taiteen museo naziaikaisella historialla. Merkittävä näyttelypaikka nykyaikaiselle taiteelle.
 
+## Taide, käsityö ja kulttuuri
+
+München tarjoaa poikkeuksellisen laajan kattauksen huipputaidetta, perinteistä käsityötä ja teollista kulttuuria:
+
+*   [Lenbachhaus](https://fi.wikipedia.org/wiki/Lenbachhaus) — Taidemuseo, joka tunnetaan erityisesti maailman laajimmasta *Der Blaue Reiter* (Sininen ratsastaja) -ryhmän ekspressionistisen taiteen kokoelmasta.
+*   [Kunsthalle München](https://www.kunsthalle-muc.de/en/) — Yksi Saksan suosituimmista ja arvostetuimmista vaihtuvien taidenäyttelyiden halleista, joka sijaitsee aivan kaupungin ydinkeskustassa Fünf Höfe -korttelissa.
+*   [Bayerisches Nationalmuseum (Baijerin kansallismuseo)](https://fi.wikipedia.org/wiki/Bayerisches_Nationalmuseum) — Upea kulttuurihistoriallinen museo, joka esittelee eurooppalaista taidetta ja taidekäsityötä keskiajalta 1900-luvun alkuun.
+*   [Radspieler ja Glockenbachviertelin käsityöt](https://www.radspieler.com/) — Radspieler on historiallinen (perustettu 1848) design- ja käsityökauppa Münchenin keskustassa, joka on kuuluisa laadukkaista kankaistaan ja huonekaluistaan. Trendikäs Glockenbachviertelin alue on myös tunnettu pienistä artesaani- ja käsityöpajoista.
+*   [Valentin-Karlstadt-Musäum](https://www.valentin-musaeum.de) — Isartorin historiallisessa tornissa sijaitseva persoonallinen ja absurdista huumoria huokuva museo, joka on omistettu Münchenin omalle koomikolle Karl Valentinille ja esittelee kaupungin kansankulttuuria ja teatterihistoriaa.
+
 ## Lähistöllä olevat nähtävyydet (100 km säteellä Münchenstä)
 
 - [Schleissheim-linnat](https://fi.wikipedia.org/wiki/Schleissheimin_linna) — **20 km** — Kolme kuninkaalata linnaa: Uusi linna (barokkipalatsi), Vanha linna ja Lustheim-palatsi. Upeita puistoja ja rakennuksia.
@@ -153,6 +163,9 @@ Erityisesti kesäkaudella ja heinäkuun lopussa (22.7.–28.7.2026) Müncheniss�
     { name: "BMW-museo", coords: [48.1768, 11.5591], desc: "BMW-automuseo ja BMW Welt." },
     { name: "Deutsches Museum", coords: [48.1301, 11.5838], desc: "Maailman suurin tekniikan museo." },
     { name: "Schloss Nymphenburg", coords: [48.1583, 11.5036], desc: "Barokkipalatsi puistoineen." },
+    { name: "Lenbachhaus", coords: [48.1469, 11.5636], desc: "[Museo] Tunnettu Blaue Reiter -ekspressionistisesta taiteesta." },
+    { name: "Bayerisches Nationalmuseum", coords: [48.1431, 11.5910], desc: "[Museo] Baijerin kansallismuseo – Euroopan taidetta ja taidekäsityötä." },
+    { name: "Valentin-Karlstadt-Musäum", coords: [48.1350, 11.5824], desc: "[Museo] Karl Valentinille omistettu hassuttelumuseo Isartorissa." },
     { name: "Schleißheimin linnat", coords: [48.2486, 11.5606], desc: "Barokkilinnakompleksi (20 km)." },
     { name: "Dachau", coords: [48.2700, 11.4682], desc: "Dachaun keskitysleirin muistopaikka (20 km)." },
     { name: "Freising", coords: [48.4029, 11.7485], desc: "Historiallinen katedraalikaupunki ja Weihenstephan-panimo (40 km)." },

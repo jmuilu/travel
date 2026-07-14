@@ -18,6 +18,15 @@
 
 - [Tirol Panorama ja Kaiserjäger-museo](https://www.tiroler-landesmuseen.at/en/museum/das-tirol-panorama/) — Panoraamamuseo esittelee Tirolin historiaa sekä kuuluisan 360° panoraamamaalauksen. Valtava ympyränmuotoinen maalaus kuvaa vuoden 1809 taistelua Bergiselissä.
 
+## Taide, käsityö ja kulttuuri
+
+Innsbruckissa yhdistyvät upealla tavalla vanhat alppien käsityöperinteet, keisarillinen kulttuuri ja moderni taide:
+
+*   [Tiroler Volkskunstmuseum (Tirolin kansantaiteen museo)](https://en.wikipedia.org/wiki/Tyrolean_Folk_Art_Museum) — Sijaitsee vanhassakaupungissa Hofkirchen vieressä. Museossa on yksi Euroopan merkittävimmistä kansantaiteen kokoelmista, kuten perinteisiä tirolilaisia pukuja (dirndl & lederhosen), puutöitä ja historiallisia talonpoikaistupia.
+*   [Tiroler Heimatwerk](https://www.innsbruck.info/en/shopping/local-specialities/local-handicrafts.html) — Vanhankaupungin sydämessä sijaitseva perinteisen käsityön keskus ja myymälä. Täältä löydät laadukkaita paikallisten käsityöläisten valmistamia tuotteita, kuten keramiikkaa, puutöitä, tekstiilejä ja perinteisiä vaatteita.
+*   [Swarovski Kristallwelten (Swarovski-kristallimaailmat)](https://en.wikipedia.org/wiki/Swarovski_Kristallwelten) — Noin 15 km päässä Wattensissa sijaitseva maanalainen kristallitaiteen elämysmaailma, jossa tunnetut kansainväliset taiteilijat ovat luoneet kristallista moderneja taideteoksia ja tilainstallaatioita.
+*   [Seifenmanufaktur Walde](https://www.walde.at/en/) — Itävallan vanhin saippuamanufaktuuri (perustettu 1777) Innsbruckissa. Täällä valmistetaan edelleen käsityönä perinteisiä luonnonsaippuoita ja kynttilöitä yli 240 vuoden kokemuksella.
+
 ## Lähistöllä olevat nähtävyydet (100 km säteellä Innsbruckista)
 
 - [Hall in Tirol](https://en.wikipedia.org/wiki/Hall_in_Tirol) — **10 km** — Keskiaikainen kaupunki, joka tunnetaan suolaliiketoiminnastaan. Kaunis vanha kaupunkikeskusta ja historiallinen ilmapiiri.
@@ -141,11 +150,12 @@ Kaikki retkiehdotukset on laskettu alkaviksi **Sellrainin** kylästä (n. 20 km 
     { name: "Sellrain (Lähtöpiste)", coords: [47.2133, 11.2181], desc: "Majoitus- ja aloituspiste." },
     { name: "Kultainen katto (Goldenes Dachl)", coords: [47.2686, 11.3933], desc: "[Nähtävyys] Innsbruckin tunnetuin maamerkki." },
     { name: "Stadtturm", coords: [47.2685, 11.3937], desc: "[Nähtävyys] Keskiaikainen kaupungintorni näköaloilla." },
-    { name: "Hofkirche", coords: [47.2689, 11.3956], desc: "[Nähtävyys] Keisari Maximilian I:n hautakirkko." },
+    { name: "Hofkirche & Volkskunstmuseum", coords: [47.2689, 11.3956], desc: "[Nähtävyys] Keisari Maximilian I:n hautakirkko ja kansantaiteen museo." },
     { name: "Keisarillinen palatsi (Hofburg)", coords: [47.2689, 11.3946], desc: "[Nähtävyys] Innsbruckin keisarillinen palatsi." },
     { name: "Nordkette (Hafelekar)", coords: [47.3115, 11.3837], desc: "[Nähtävyys] Alppihuiput suoraan köysiradalla." },
     { name: "Schloss Ambras", coords: [47.2636, 11.4319], desc: "[Museo] Upea renessanssilinna taidekokoelmineen." },
     { name: "Bergisel & Tirol Panorama", coords: [47.2485, 11.3995], desc: "[Museo] Hyppyrimäki ja jättimäinen panoraamamaalaus." },
+    { name: "Swarovski Kristallwelten", coords: [47.2861, 11.5975], desc: "[Nähtävyys] Kristallitaiteen elämysmaailma Wattensissa (15 km Innsbruckista)." },
     { name: "Hall in Tirol", coords: [47.2804, 11.5076], desc: "[Retkikohde] Keskiaikainen suolakaupunki (30 km Sellrainista)." },
     { name: "Seefeld in Tirol", coords: [47.3294, 11.1873], desc: "[Retkikohde] Alppikylä ja ulkoilualue (35 km Sellrainista)." },
     { name: "Stubaier Gletscher", coords: [46.9858, 11.1118], desc: "[Retkikohde] Stubai-jäätikkö ja hiihtoalue (55 km Sellrainista)." },
